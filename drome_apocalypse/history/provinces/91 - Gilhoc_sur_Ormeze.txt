@@ -1,0 +1,13 @@
+owner = GSU
+controller = GSU
+add_core = GSU
+culture = cul_lamastre
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = wine
+capital = "Gilhoc-sur-Ormeze"
+is_city = yes
+discovered_by = western

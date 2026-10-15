@@ -1,0 +1,35 @@
+namespace = drome_prix
+
+# Regain d'interet pour l'essence de lavande (sur la base de New_Draperies)
+country_event = {
+	id = drome_prix.1
+	title = drome_prix.1.t
+	desc = drome_prix.1.d
+	picture = TRADEGOODS_eventPicture
+
+	fire_only_once = yes
+	major = yes
+
+	trigger = {
+		dip_tech = 4
+		any_province = { trade_goods = lavande }
+		NOT = { has_global_flag = essence_lavande_happened }
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	immediate = {
+		set_global_flag = essence_lavande_happened
+	}
+
+	option = {
+		name = drome_prix.1.a
+		change_price = {
+			trade_goods = lavande
+			key = ESSENCE_LAVANDE
+			value = 0.30
+			duration = -1
+		}
+	}
+}

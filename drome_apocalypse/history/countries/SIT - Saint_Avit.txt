@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_saint_barthelemy_de_vals
+religion = catholic
+capital = 618
+
+2055.1.1 = {
+	monarch = {
+		name = "Marcel"
+		dynasty = "de Saint-Avit"
+		birth_date = 2019.2.12
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}

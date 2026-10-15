@@ -1,0 +1,13 @@
+owner = PAD
+controller = PAD
+add_core = PAD
+culture = cul_saillans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = silk
+capital = "Pradelle"
+is_city = yes
+discovered_by = western

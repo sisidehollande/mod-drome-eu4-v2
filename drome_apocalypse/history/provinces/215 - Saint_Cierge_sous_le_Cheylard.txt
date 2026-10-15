@@ -1,0 +1,13 @@
+owner = SAC
+controller = SAC
+add_core = SAC
+culture = cul_cheylard
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Saint-Cierge-sous-le-Cheylard"
+is_city = yes
+discovered_by = western

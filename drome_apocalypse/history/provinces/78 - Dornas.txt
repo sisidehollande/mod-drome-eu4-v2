@@ -1,0 +1,13 @@
+owner = DOR
+controller = DOR
+add_core = DOR
+culture = cul_cheylard
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Dornas"
+is_city = yes
+discovered_by = western

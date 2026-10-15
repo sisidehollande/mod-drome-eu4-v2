@@ -1,0 +1,13 @@
+owner = CHO
+controller = CHO
+add_core = CHO
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = wool
+capital = "Chomerac"
+is_city = yes
+discovered_by = western

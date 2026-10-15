@@ -1,0 +1,13 @@
+owner = CHL
+controller = CHL
+add_core = CHL
+culture = cul_motte_chalancon
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Chalancon"
+is_city = yes
+discovered_by = western

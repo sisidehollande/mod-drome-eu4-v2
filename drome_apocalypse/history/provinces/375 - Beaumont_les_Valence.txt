@@ -1,0 +1,13 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+trade_goods = iron
+capital = "Beaumont-les-Valence"
+is_city = yes
+discovered_by = western

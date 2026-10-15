@@ -1,0 +1,13 @@
+owner = SRC
+controller = SRC
+add_core = SRC
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = livestock
+capital = "Saint-Marcel-les-Sauzet"
+is_city = yes
+discovered_by = western

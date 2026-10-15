@@ -1,0 +1,13 @@
+owner = STJ
+controller = STJ
+add_core = STJ
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = grain
+capital = "Saint-Jean-le-Centenier"
+is_city = yes
+discovered_by = western

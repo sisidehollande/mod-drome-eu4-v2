@@ -1,0 +1,13 @@
+owner = RLE
+controller = RLE
+add_core = RLE
+culture = cul_nyons
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Rousset-les-Vignes"
+is_city = yes
+discovered_by = western

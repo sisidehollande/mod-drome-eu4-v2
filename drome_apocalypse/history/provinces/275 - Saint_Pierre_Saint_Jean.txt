@@ -1,0 +1,13 @@
+owner = SRR
+controller = SRR
+add_core = SRR
+culture = cul_vans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = silk
+capital = "Saint-Pierre-Saint-Jean"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = SLS
+controller = SLS
+add_core = SLS
+culture = cul_montmiral
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = wine
+capital = "Saint-Michel-sur-Savasse"
+is_city = yes
+discovered_by = western

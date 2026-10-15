@@ -1,0 +1,13 @@
+owner = SAH
+controller = SAH
+add_core = SAH
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Saint-Michel-de-Boulogne"
+is_city = yes
+discovered_by = western

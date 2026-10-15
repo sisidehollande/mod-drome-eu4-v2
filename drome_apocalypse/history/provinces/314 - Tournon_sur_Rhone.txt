@@ -1,0 +1,13 @@
+owner = TSU
+controller = TSU
+add_core = TSU
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 9
+base_manpower = 5
+trade_goods = cloth
+capital = "Tournon-sur-Rhone"
+is_city = yes
+discovered_by = western

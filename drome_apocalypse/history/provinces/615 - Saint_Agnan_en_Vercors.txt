@@ -1,0 +1,13 @@
+owner = SGN
+controller = SGN
+add_core = SGN
+culture = cul_saint_agnan_en_vercors
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+capital = "Saint-Agnan-en-Vercors"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = ALB
+controller = ALB
+add_core = ALB
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = iron
+capital = "Alba-la-Romaine"
+is_city = yes
+discovered_by = western

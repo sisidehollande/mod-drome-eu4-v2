@@ -1,0 +1,13 @@
+owner = SUL
+controller = SUL
+add_core = SUL
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Saint-Julien-du-Gua"
+is_city = yes
+discovered_by = western

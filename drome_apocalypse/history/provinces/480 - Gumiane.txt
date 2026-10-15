@@ -1,0 +1,13 @@
+owner = GUM
+controller = GUM
+add_core = GUM
+culture = cul_motte_chalancon
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Gumiane"
+is_city = yes
+discovered_by = western

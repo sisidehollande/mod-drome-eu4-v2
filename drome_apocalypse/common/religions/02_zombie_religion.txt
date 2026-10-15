@@ -1,0 +1,22 @@
+zombie_group = {
+	defender_of_faith = no
+	can_form_personal_unions = no
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	crusade_name = CRUSADE
+
+	r_zombie = {
+		color = { 80 90 70 }
+		icon = 2
+
+		country = {
+			land_maintenance_modifier = -0.25
+			global_manpower_modifier = 1.0
+			land_forcelimit_modifier = 1.0
+			global_sailors_modifier = -0.5
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+	}
+}

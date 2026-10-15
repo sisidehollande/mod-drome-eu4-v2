@@ -1,0 +1,13 @@
+owner = MRA
+controller = MRA
+add_core = MRA
+culture = cul_hauterives
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+capital = "Moras-en-Valloire"
+is_city = yes
+discovered_by = western

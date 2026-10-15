@@ -1,0 +1,216 @@
+# Le chateau en ruine de Rochemaure (province 184) : vue dominante et defense
+rochemaure_castle = {
+	start = 184
+	date = 1200.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+
+	build_trigger = {
+		always = yes
+	}
+	on_built = {
+	}
+	on_destroyed = {
+	}
+	can_use_modifiers_trigger = {
+	}
+	can_upgrade_trigger = {
+	}
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+	tier_1 = {
+		upgrade_time = {
+			months = 12
+		}
+		cost_to_upgrade = {
+			factor = 500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			defensiveness = 0.1
+			hostile_attrition = 0.25
+			spy_offence = 0.1
+		}
+		on_upgraded = {
+			add_prestige = 5
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 24
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			defensiveness = 0.2
+			hostile_attrition = 0.5
+			spy_offence = 0.2
+		}
+		on_upgraded = {
+			add_prestige = 10
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 48
+		}
+		cost_to_upgrade = {
+			factor = 2000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			defensiveness = 0.3
+			hostile_attrition = 0.75
+			spy_offence = 0.3
+		}
+		on_upgraded = {
+			add_prestige = 15
+		}
+	}
+}
+
+# Le chateau des Adhemar, Montelimar (province 528)
+adhemar_castle = {
+	start = 528
+	date = 1200.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+
+	build_trigger = {
+		always = yes
+	}
+	on_built = {
+	}
+	on_destroyed = {
+	}
+	can_use_modifiers_trigger = {
+	}
+	can_upgrade_trigger = {
+	}
+	keep_trigger = {
+	}
+
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+
+
+	tier_1 = {
+		upgrade_time = {
+			months = 12
+		}
+		cost_to_upgrade = {
+			factor = 500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			diplomatic_reputation = 1
+			prestige = 0.5
+			defensiveness = 0.1
+		}
+		on_upgraded = {
+			add_prestige = 10
+		}
+	}
+
+	tier_2 = {
+		upgrade_time = {
+			months = 24
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			diplomatic_reputation = 2
+			prestige = 1
+			defensiveness = 0.2
+		}
+		on_upgraded = {
+			add_prestige = 15
+		}
+	}
+
+	tier_3 = {
+		upgrade_time = {
+			months = 48
+		}
+		cost_to_upgrade = {
+			factor = 2000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			diplomatic_reputation = 3
+			prestige = 1.5
+			defensiveness = 0.3
+		}
+		on_upgraded = {
+			add_prestige = 25
+		}
+	}
+}

@@ -1,0 +1,13 @@
+owner = PSU
+controller = PSU
+add_core = PSU
+culture = cul_buis_les_baronnies
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Penne-sur-l'Ouveze"
+is_city = yes
+discovered_by = western

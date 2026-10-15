@@ -1,0 +1,13 @@
+owner = COB
+controller = COB
+add_core = COB
+culture = cul_crest
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = silk
+capital = "Cobonne"
+is_city = yes
+discovered_by = western

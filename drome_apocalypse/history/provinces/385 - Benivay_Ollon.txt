@@ -1,0 +1,13 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+culture = cul_nyons
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Benivay-Ollon"
+is_city = yes
+discovered_by = western

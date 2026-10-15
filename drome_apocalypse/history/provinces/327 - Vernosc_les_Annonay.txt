@@ -1,0 +1,13 @@
+owner = VEL
+controller = VEL
+add_core = VEL
+culture = cul_annonay
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = cloth
+capital = "Vernosc-les-Annonay"
+is_city = yes
+discovered_by = western

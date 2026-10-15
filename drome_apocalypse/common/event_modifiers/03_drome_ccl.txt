@@ -1,0 +1,10 @@
+ccl_siege_permanent = {
+	diplomatic_reputation = 2
+	prestige = 1
+	global_unrest = -1
+}
+
+ccl_siege_elu = {
+	diplomatic_reputation = 1
+	prestige = 0.5
+}

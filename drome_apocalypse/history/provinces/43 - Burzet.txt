@@ -1,0 +1,13 @@
+owner = BUR
+controller = BUR
+add_core = BUR
+culture = cul_thueyts
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = wine
+capital = "Burzet"
+is_city = yes
+discovered_by = western

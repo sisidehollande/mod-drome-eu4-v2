@@ -1,0 +1,13 @@
+owner = ROA
+controller = ROA
+add_core = ROA
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 13
+base_production = 15
+base_manpower = 9
+trade_goods = silk
+capital = "Romans-sur-Isere"
+is_city = yes
+discovered_by = western

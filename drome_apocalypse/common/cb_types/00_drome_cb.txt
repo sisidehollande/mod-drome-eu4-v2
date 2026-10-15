@@ -1,0 +1,5 @@
+# Guerre de defense contre la horde
+cb_horde = {
+	is_triggered_only = yes
+	war_goal = take_capital_imperial
+}

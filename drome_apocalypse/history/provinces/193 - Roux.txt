@@ -1,0 +1,13 @@
+owner = ROU
+controller = ROU
+add_core = ROU
+culture = cul_thueyts
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Roux"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = STC
+controller = STC
+add_core = STC
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Saint-Cirgues-de-Prades"
+is_city = yes
+discovered_by = western

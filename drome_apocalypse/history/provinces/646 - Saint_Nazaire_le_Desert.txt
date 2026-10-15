@@ -1,0 +1,13 @@
+owner = STN
+controller = STN
+add_core = STN
+culture = cul_dieulefit
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Saint-Nazaire-le-Desert"
+is_city = yes
+discovered_by = western

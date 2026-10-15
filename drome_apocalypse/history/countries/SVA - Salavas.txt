@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_vallon_pont_d_arc
+religion = catholic
+capital = 295
+
+2055.1.1 = {
+	monarch = {
+		name = "Andre"
+		dynasty = "de Salavas"
+		birth_date = 2008.7.15
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

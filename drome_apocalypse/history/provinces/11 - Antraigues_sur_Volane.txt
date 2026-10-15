@@ -1,0 +1,13 @@
+owner = ANT
+controller = ANT
+add_core = ANT
+culture = cul_antraigues_sur_volane
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = cloth
+capital = "Antraigues-sur-Volane"
+is_city = yes
+discovered_by = western

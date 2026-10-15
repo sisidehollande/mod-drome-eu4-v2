@@ -1,0 +1,13 @@
+owner = AUC
+controller = AUC
+add_core = AUC
+culture = cul_luc_en_diois
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Aucelon"
+is_city = yes
+discovered_by = western

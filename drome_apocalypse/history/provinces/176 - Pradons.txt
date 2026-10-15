@@ -1,0 +1,13 @@
+owner = PRD
+controller = PRD
+add_core = PRD
+culture = cul_vallon_pont_d_arc
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Pradons"
+is_city = yes
+discovered_by = western

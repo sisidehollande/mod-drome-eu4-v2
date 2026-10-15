@@ -1,0 +1,13 @@
+owner = SEE
+controller = SEE
+add_core = SEE
+culture = cul_saint_jean_en_royans
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Sainte-Eulalie-en-Royans"
+is_city = yes
+discovered_by = western

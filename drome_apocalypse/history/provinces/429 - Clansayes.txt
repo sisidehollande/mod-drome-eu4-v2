@@ -1,0 +1,13 @@
+owner = CLN
+controller = CLN
+add_core = CLN
+culture = cul_pierrelatte
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Clansayes"
+is_city = yes
+discovered_by = western

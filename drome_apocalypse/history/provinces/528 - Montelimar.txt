@@ -1,0 +1,13 @@
+owner = MEL
+controller = MEL
+add_core = MEL
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 8
+base_production = 10
+base_manpower = 6
+trade_goods = nougat
+capital = "Montelimar"
+is_city = yes
+discovered_by = western

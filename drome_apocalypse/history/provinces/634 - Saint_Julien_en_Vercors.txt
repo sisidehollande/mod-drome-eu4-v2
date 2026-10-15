@@ -1,0 +1,13 @@
+owner = SNV
+controller = SNV
+add_core = SNV
+culture = cul_saint_jean_en_royans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Saint-Julien-en-Vercors"
+is_city = yes
+discovered_by = western

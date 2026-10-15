@@ -1,0 +1,13 @@
+owner = BEZ
+controller = BEZ
+add_core = BEZ
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Berzeme"
+is_city = yes
+discovered_by = western

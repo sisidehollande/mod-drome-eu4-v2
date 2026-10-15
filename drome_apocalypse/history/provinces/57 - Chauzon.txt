@@ -1,0 +1,13 @@
+owner = CHU
+controller = CHU
+add_core = CHU
+culture = cul_joyeuse
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = cloth
+capital = "Chauzon"
+is_city = yes
+discovered_by = western

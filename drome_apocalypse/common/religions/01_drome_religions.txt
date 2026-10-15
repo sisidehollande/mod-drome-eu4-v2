@@ -1,0 +1,31 @@
+# Religion Wauquiez : copie provisoire des mecaniques protestantes
+drome_group = {
+	defender_of_faith = no
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+
+	wauquiez = {
+		color = { 140 40 170 }
+		icon = 2
+
+		allowed_conversion = {
+			catholic
+			protestant
+			reformed
+		}
+		country = {
+			global_tax_modifier = 0.1
+			improve_relation_modifier = 0.15
+			church_loyalty_modifier = 0.1
+		}
+		country_as_secondary = {
+			idea_cost = -0.1
+		}
+
+		on_convert = {
+			change_religion = wauquiez
+			add_prestige = -100
+		}
+	}
+}

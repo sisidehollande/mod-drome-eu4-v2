@@ -1,0 +1,13 @@
+owner = MOT
+controller = MOT
+add_core = MOT
+culture = cul_joyeuse
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Montreal"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = BEG
+controller = BEG
+add_core = BEG
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = silk
+capital = "Begude-de-Mazenc"
+is_city = yes
+discovered_by = western

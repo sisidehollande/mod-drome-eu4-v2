@@ -1,0 +1,15 @@
+type={
+	type="eagle"
+	use_animation=yes
+	scale=0.300000
+	time_duration=300.000000
+	object={
+		name="Eagle_Alps"
+		hidden_on_start=no
+		position={
+			1800.000 15.350 1600.000 }
+		rotation={
+			0.000 45.000 0.000 
+		}
+	}
+}

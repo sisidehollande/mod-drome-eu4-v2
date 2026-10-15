@@ -1,0 +1,13 @@
+owner = LUC
+controller = LUC
+add_core = LUC
+culture = cul_luc_en_diois
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Luc-en-Diois"
+is_city = yes
+discovered_by = western

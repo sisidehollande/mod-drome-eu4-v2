@@ -1,0 +1,13 @@
+owner = JAU
+controller = JAU
+add_core = JAU
+culture = cul_thueyts
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = silk
+capital = "Jaujac"
+is_city = yes
+discovered_by = western

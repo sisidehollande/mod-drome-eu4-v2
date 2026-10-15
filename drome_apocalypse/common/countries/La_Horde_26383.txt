@@ -1,0 +1,26 @@
+graphical_culture = westerngfx
+
+color = { 70 80 60 }
+
+historical_idea_groups = {
+	administrative_ideas
+	quantity_ideas
+	offensive_ideas
+	defensive_ideas
+	humanist_ideas
+	trade_ideas
+	quality_ideas
+	economic_ideas
+}
+
+monarch_names = {
+	"Zero #0" = 10
+}
+
+leader_names = {
+	Charnier Cendre Meute Brume Silence Rodeur Errant Gisant Hurleur Affame Livide Glaneur
+}
+
+ship_names = {
+	Brume Silence Cendre Charnier Meute Rodeur Errant Gisant Hurleur Affame Livide Glaneur
+}

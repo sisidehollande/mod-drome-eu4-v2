@@ -1,0 +1,13 @@
+owner = PNT
+controller = PNT
+add_core = PNT
+culture = cul_die
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Pontaix"
+is_city = yes
+discovered_by = western

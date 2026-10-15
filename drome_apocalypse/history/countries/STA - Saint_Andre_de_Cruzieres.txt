@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_saint_sauveur_de_cruzieres
+religion = catholic
+capital = 204
+
+2055.1.1 = {
+	monarch = {
+		name = "Michel"
+		dynasty = "de Saint-Andre-de-Cruzieres"
+		birth_date = 2001.8.22
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}

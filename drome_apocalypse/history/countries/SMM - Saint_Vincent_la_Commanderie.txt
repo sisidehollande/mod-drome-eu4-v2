@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_barbieres
+religion = catholic
+capital = 706
+
+2055.1.1 = {
+	monarch = {
+		name = "Paul"
+		dynasty = "de Saint-Vincent-la-Commanderie"
+		birth_date = 2005.10.28
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

@@ -1,0 +1,13 @@
+owner = SEM
+controller = SEM
+add_core = SEM
+culture = cul_vans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Sainte-Marguerite-Lafigere"
+is_city = yes
+discovered_by = western

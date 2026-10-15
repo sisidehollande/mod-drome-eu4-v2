@@ -1,0 +1,13 @@
+owner = RUO
+controller = RUO
+add_core = RUO
+culture = cul_vallon_pont_d_arc
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = cloth
+capital = "Ruoms"
+is_city = yes
+discovered_by = western

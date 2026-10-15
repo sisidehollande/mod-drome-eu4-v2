@@ -1,0 +1,23 @@
+# Garde-chasse : corps special des communes de foret, de colline et de montagne
+# (occupe l'emplacement "cavalerie", ce qui limite naturellement son nombre)
+type = cavalry
+unit_type = western
+
+maneuver = 3
+offensive_morale = 1
+defensive_morale = 1
+offensive_fire = 0
+defensive_fire = 1
+offensive_shock = 1
+defensive_shock = 1
+
+trigger = {
+	capital_scope = {
+		OR = {
+			terrain = forest
+			terrain = woods
+			terrain = hills
+			terrain = mountain
+		}
+	}
+}

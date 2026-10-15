@@ -1,0 +1,13 @@
+owner = INT
+controller = INT
+add_core = INT
+culture = cul_mars
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Intres"
+is_city = yes
+discovered_by = western

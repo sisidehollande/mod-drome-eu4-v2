@@ -1,0 +1,13 @@
+owner = SMA
+controller = SMA
+add_core = SMA
+culture = cul_pierrelatte
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = livestock
+capital = "Saint-Marcel-d'Ardeche"
+is_city = yes
+discovered_by = western

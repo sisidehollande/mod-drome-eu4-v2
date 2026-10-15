@@ -1,0 +1,13 @@
+owner = BRO
+controller = BRO
+add_core = BRO
+culture = cul_annonay
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = silk
+capital = "Brossainc"
+is_city = yes
+discovered_by = western

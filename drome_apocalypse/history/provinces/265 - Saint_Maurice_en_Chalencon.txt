@@ -1,0 +1,13 @@
+owner = SCE
+controller = SCE
+add_core = SCE
+culture = cul_duniere_sur_eyrieux
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Saint-Maurice-en-Chalencon"
+is_city = yes
+discovered_by = western

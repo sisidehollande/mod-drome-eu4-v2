@@ -1,0 +1,13 @@
+owner = SAJ
+controller = SAJ
+add_core = SAJ
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = iron
+capital = "Saint-Jean-de-Muzols"
+is_city = yes
+discovered_by = western

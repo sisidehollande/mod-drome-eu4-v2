@@ -1,0 +1,13 @@
+owner = GRO
+controller = GRO
+add_core = GRO
+culture = cul_vallon_pont_d_arc
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = livestock
+capital = "Grospierres"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = LOU
+controller = LOU
+add_core = LOU
+culture = cul_sablieres
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Loubaresse"
+is_city = yes
+discovered_by = western

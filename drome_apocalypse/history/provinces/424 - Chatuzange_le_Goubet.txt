@@ -1,0 +1,13 @@
+owner = CTU
+controller = CTU
+add_core = CTU
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 6
+base_manpower = 4
+trade_goods = wine
+capital = "Chatuzange-le-Goubet"
+is_city = yes
+discovered_by = western

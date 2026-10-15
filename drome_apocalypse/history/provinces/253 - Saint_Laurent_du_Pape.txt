@@ -1,0 +1,13 @@
+owner = STL
+controller = STL
+add_core = STL
+culture = cul_livron_sur_drome
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = iron
+capital = "Saint-Laurent-du-Pape"
+is_city = yes
+discovered_by = western

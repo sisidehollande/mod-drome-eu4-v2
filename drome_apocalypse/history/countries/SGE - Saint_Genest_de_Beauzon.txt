@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_joyeuse
+religion = catholic
+capital = 231
+
+2055.1.1 = {
+	monarch = {
+		name = "Jean"
+		dynasty = "de Saint-Genest-de-Beauzon"
+		birth_date = 2010.11.11
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

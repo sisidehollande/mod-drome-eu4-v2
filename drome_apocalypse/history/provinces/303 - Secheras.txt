@@ -1,0 +1,13 @@
+owner = SEC
+controller = SEC
+add_core = SEC
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = cloth
+capital = "Secheras"
+is_city = yes
+discovered_by = western

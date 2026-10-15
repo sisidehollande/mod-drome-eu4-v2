@@ -1,0 +1,13 @@
+owner = VAL
+controller = VAL
+add_core = VAL
+culture = cul_sablieres
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+capital = "Valgorge"
+is_city = yes
+discovered_by = western

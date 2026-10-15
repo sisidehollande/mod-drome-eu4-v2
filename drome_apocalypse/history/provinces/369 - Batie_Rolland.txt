@@ -1,0 +1,13 @@
+owner = BTI
+controller = BTI
+add_core = BTI
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = wool
+capital = "Batie-Rolland"
+is_city = yes
+discovered_by = western

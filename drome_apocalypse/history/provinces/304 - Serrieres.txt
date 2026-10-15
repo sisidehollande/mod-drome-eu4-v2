@@ -1,0 +1,13 @@
+owner = SEI
+controller = SEI
+add_core = SEI
+culture = cul_saint_rambert_d_albon
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = wine
+capital = "Serrieres"
+is_city = yes
+discovered_by = western

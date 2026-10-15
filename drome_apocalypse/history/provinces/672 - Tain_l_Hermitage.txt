@@ -1,0 +1,13 @@
+owner = TAI
+controller = TAI
+add_core = TAI
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 6
+base_manpower = 4
+trade_goods = livestock
+capital = "Tain-l'Hermitage"
+is_city = yes
+discovered_by = western

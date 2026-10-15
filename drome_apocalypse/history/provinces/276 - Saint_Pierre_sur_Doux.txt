@@ -1,0 +1,13 @@
+owner = SSU
+controller = SSU
+add_core = SSU
+culture = cul_lalouvesc
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Saint-Pierre-sur-Doux"
+is_city = yes
+discovered_by = western

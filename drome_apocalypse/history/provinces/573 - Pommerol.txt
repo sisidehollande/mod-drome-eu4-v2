@@ -1,0 +1,13 @@
+owner = POM
+controller = POM
+add_core = POM
+culture = cul_motte_chalancon
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Pommerol"
+is_city = yes
+discovered_by = western

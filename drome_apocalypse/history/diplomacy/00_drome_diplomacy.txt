@@ -1,0 +1,337 @@
+# Relations de depart : pactes entre communes voisines (le jeu a besoin d'au moins une relation pour dessiner ses lignes diplomatiques)
+
+alliance = {
+	first = ACC
+	second = CHY
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = AST
+	second = BON
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = BOG
+	second = CHP
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = CSU
+	second = SAO
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = CRE
+	second = ARL
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = FLA
+	second = CHO
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = JAU
+	second = FAB
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = LAF
+	second = LDX
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = LES
+	second = CEL
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = MIR
+	second = DAR
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = PLT
+	second = CLE
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = ROT
+	second = BOR
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SAD
+	second = DEV
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SDI
+	second = AUB
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = STJ
+	second = ALB
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SMA
+	second = BID
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SPI
+	second = BUR
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SYM
+	second = LLO
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SOY
+	second = CSU
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = VAS
+	second = ASS
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = ABO
+	second = ANA
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = ARE
+	second = SOL
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = BEL
+	second = MLI
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = BOD
+	second = BZA
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = CTE
+	second = CAR
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = CDI
+	second = BZA
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = CEP
+	second = ART
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = EYG
+	second = BLL
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = GRN
+	second = AEX
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = LEO
+	second = BAB
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = MLE
+	second = BOL
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = MEL
+	second = ROH
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = MCH
+	second = ARN
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = PIE
+	second = CHD
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = POR
+	second = ALE
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = RHI
+	second = BDX
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SHU
+	second = ARP
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SRV
+	second = BTI
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SIG
+	second = RLE
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = SA3
+	second = MES
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = TRU
+	second = BOD
+	start_date = 2055.1.1
+}
+
+alliance = {
+	first = VIE
+	second = CLA
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = AND
+	second = LAY
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = CHO
+	second = SAY
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = LAC
+	second = SIR
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = PEY
+	second = SMB
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = SDE
+	second = ANA
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = STP
+	second = SCA
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = VEL
+	second = THO
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = BUV
+	second = PLE
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = CLI
+	second = SLC
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = LAH
+	second = MOF
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = MOR
+	second = SAK
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = RIM
+	second = SBE
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = SNA
+	second = RHI
+	start_date = 2055.1.1
+}
+
+royal_marriage = {
+	first = VIE
+	second = LBO
+	start_date = 2055.1.1
+}

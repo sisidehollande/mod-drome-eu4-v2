@@ -1,0 +1,13 @@
+owner = ALX
+controller = ALX
+add_core = ALX
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = livestock
+capital = "Alixan"
+is_city = yes
+discovered_by = western

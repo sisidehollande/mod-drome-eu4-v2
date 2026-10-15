@@ -1,0 +1,13 @@
+owner = BDX
+controller = BDX
+add_core = BDX
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Baume-d'Hostun"
+is_city = yes
+discovered_by = western

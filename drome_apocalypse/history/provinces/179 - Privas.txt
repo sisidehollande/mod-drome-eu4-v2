@@ -1,0 +1,13 @@
+owner = PRI
+controller = PRI
+add_core = PRI
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 8
+base_manpower = 4
+trade_goods = iron
+capital = "Privas"
+is_city = yes
+discovered_by = western

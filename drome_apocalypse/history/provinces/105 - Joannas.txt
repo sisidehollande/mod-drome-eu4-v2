@@ -1,0 +1,13 @@
+owner = JOA
+controller = JOA
+add_core = JOA
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = iron
+capital = "Joannas"
+is_city = yes
+discovered_by = western

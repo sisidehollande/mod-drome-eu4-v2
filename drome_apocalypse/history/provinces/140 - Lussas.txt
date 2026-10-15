@@ -1,0 +1,13 @@
+owner = LUS
+controller = LUS
+add_core = LUS
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = silk
+capital = "Lussas"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = SAR
+controller = SAR
+add_core = SAR
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = wool
+capital = "Saint-Barthelemy-le-Plain"
+is_city = yes
+discovered_by = western

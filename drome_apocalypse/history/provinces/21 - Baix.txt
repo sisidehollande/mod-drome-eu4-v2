@@ -1,0 +1,13 @@
+owner = BAI
+controller = BAI
+add_core = BAI
+culture = cul_livron_sur_drome
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = wine
+capital = "Baix"
+is_city = yes
+discovered_by = western

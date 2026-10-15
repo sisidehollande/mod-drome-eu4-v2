@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_cheylard
+religion = catholic
+capital = 281
+
+2055.1.1 = {
+	monarch = {
+		name = "Jean"
+		dynasty = "de Saint-Prix"
+		birth_date = 2000.9.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

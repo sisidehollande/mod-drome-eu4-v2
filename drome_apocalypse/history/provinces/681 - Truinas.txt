@@ -1,0 +1,13 @@
+owner = TRU
+controller = TRU
+add_core = TRU
+culture = cul_dieulefit
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Truinas"
+is_city = yes
+discovered_by = western

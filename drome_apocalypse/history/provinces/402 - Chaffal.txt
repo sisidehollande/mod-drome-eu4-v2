@@ -1,0 +1,13 @@
+owner = CHF
+controller = CHF
+add_core = CHF
+culture = cul_barbieres
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Chaffal"
+is_city = yes
+discovered_by = western

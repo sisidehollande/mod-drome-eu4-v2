@@ -1,0 +1,13 @@
+owner = MRN
+controller = MRN
+add_core = MRN
+culture = cul_saillans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Mornans"
+is_city = yes
+discovered_by = western

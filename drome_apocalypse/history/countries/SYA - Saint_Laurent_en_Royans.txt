@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_saint_jean_en_royans
+religion = catholic
+capital = 636
+
+2055.1.1 = {
+	monarch = {
+		name = "Paul"
+		dynasty = "de Saint-Laurent-en-Royans"
+		birth_date = 1995.8.14
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

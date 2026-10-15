@@ -1,0 +1,13 @@
+owner = MAL
+controller = MAL
+add_core = MAL
+culture = cul_vans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Malarce-sur-la-Thines"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_hauterives
+religion = catholic
+capital = 503
+
+2055.1.1 = {
+	monarch = {
+		name = "Louis"
+		dynasty = "de Manthes"
+		birth_date = 1994.3.7
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}

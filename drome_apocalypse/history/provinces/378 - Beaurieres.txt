@@ -1,0 +1,13 @@
+owner = BEI
+controller = BEI
+add_core = BEI
+culture = cul_luc_en_diois
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Beaurieres"
+is_city = yes
+discovered_by = western

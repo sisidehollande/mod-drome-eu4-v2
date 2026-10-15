@@ -1,0 +1,13 @@
+owner = BOU
+controller = BOU
+add_core = BOU
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Boucieu-le-Roi"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = FON
+controller = FON
+add_core = FON
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Fons"
+is_city = yes
+discovered_by = western

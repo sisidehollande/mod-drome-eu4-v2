@@ -1,0 +1,35 @@
+graphical_culture = westerngfx
+
+color = { 207 70 67 }
+
+historical_idea_groups = {
+	administrative_ideas
+	quantity_ideas
+	defensive_ideas
+	humanist_ideas
+	trade_ideas
+	quality_ideas
+	economic_ideas
+	maritime_ideas
+}
+
+monarch_names = {
+	"Jean #0" = 10
+	"Pierre #0" = 10
+	"Louis #0" = 10
+	"Michel #0" = 10
+	"Andre #0" = 10
+	"Paul #0" = 10
+	"Henri #0" = 10
+	"Marcel #0" = 10
+	"Daniel #0" = 10
+	"Claude #0" = 10
+}
+
+leader_names = {
+	Martin Bernard Dupont Faure Roux Blanc Garnier Chevalier Mounier Chabert Brun Fabre Arnaud Vernet Rey Bouvier Peyrard Reynaud
+}
+
+ship_names = {
+	Rhone Drome Ardeche Isere Eyrieux Roubion Herbasse Lez Ouveze Berre Cance Doux Payre Veore
+}

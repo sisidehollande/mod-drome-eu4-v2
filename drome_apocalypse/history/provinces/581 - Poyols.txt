@@ -1,0 +1,13 @@
+owner = POY
+controller = POY
+add_core = POY
+culture = cul_luc_en_diois
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Poyols"
+is_city = yes
+discovered_by = western

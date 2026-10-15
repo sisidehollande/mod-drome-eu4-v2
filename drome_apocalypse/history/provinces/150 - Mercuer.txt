@@ -1,0 +1,13 @@
+owner = MER
+controller = MER
+add_core = MER
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = grain
+capital = "Mercuer"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = UPI
+controller = UPI
+add_core = UPI
+culture = cul_crest
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = wine
+capital = "Upie"
+is_city = yes
+discovered_by = western

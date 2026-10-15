@@ -1,0 +1,13 @@
+owner = SEY
+controller = SEY
+add_core = SEY
+culture = cul_nyons
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = grain
+capital = "Saint-Maurice-sur-Eygues"
+is_city = yes
+discovered_by = western

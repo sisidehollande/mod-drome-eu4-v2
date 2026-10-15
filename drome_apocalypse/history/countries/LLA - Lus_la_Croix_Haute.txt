@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_lus_la_croix_haute
+religion = catholic
+capital = 499
+
+2055.1.1 = {
+	monarch = {
+		name = "Daniel"
+		dynasty = "de Lus-la-Croix-Haute"
+		birth_date = 1996.7.19
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}

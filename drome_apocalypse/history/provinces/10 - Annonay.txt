@@ -1,0 +1,13 @@
+owner = ANN
+controller = ANN
+add_core = ANN
+culture = cul_annonay
+religion = catholic
+hre = yes
+base_tax = 9
+base_production = 11
+base_manpower = 6
+trade_goods = wool
+capital = "Annonay"
+is_city = yes
+discovered_by = western

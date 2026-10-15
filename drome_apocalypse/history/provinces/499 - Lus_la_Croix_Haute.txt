@@ -1,0 +1,13 @@
+owner = LLA
+controller = LLA
+add_core = LLA
+culture = cul_lus_la_croix_haute
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = iron
+capital = "Lus-la-Croix-Haute"
+is_city = yes
+discovered_by = western

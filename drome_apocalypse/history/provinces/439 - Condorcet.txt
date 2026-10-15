@@ -1,0 +1,13 @@
+owner = COD
+controller = COD
+add_core = COD
+culture = cul_nyons
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = livestock
+capital = "Condorcet"
+is_city = yes
+discovered_by = western

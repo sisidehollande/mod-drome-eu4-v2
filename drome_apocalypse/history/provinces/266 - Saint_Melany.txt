@@ -1,0 +1,13 @@
+owner = SME
+controller = SME
+add_core = SME
+culture = cul_sablieres
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Saint-Melany"
+is_city = yes
+discovered_by = western

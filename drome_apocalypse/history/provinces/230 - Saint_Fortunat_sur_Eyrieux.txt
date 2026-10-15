@@ -1,0 +1,13 @@
+owner = SFO
+controller = SFO
+add_core = SFO
+culture = cul_duniere_sur_eyrieux
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = livestock
+capital = "Saint-Fortunat-sur-Eyrieux"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = MAB
+controller = MAB
+add_core = MAB
+culture = cul_vans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Malbosc"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = SBO
+controller = SBO
+add_core = SBO
+culture = cul_montmiral
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = wine
+capital = "Saint-Bonnet-de-Valclerieux"
+is_city = yes
+discovered_by = western

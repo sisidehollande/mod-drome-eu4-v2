@@ -1,0 +1,103 @@
+drome_mod_barricades = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_recolte = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_reserves = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_refuge = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_milice = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_patrouilles = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_arsenal = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_forteresse = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_voisins = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_pacte = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_troc = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_ligue = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_terres = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_bourg = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_canton = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_mod_renaissance = {
+	global_tax_modifier = 0.05
+	global_manpower_modifier = 0.05
+	stability_cost_modifier = -0.05
+}
+
+drome_general_cooldown = {
+	global_manpower_modifier = 0
+}
+
+drome_ruler_zeal = {
+	global_missionary_strength = 0.02
+}

@@ -1,0 +1,13 @@
+owner = SAB
+controller = SAB
+add_core = SAB
+culture = cul_sablieres
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Sablieres"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = SYA
+controller = SYA
+add_core = SYA
+culture = cul_saint_jean_en_royans
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = cloth
+capital = "Saint-Laurent-en-Royans"
+is_city = yes
+discovered_by = western

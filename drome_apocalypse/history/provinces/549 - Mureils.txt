@@ -1,0 +1,13 @@
+owner = MUR
+controller = MUR
+add_core = MUR
+culture = cul_saint_barthelemy_de_vals
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = cloth
+capital = "Mureils"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = CRN
+controller = CRN
+add_core = CRN
+culture = cul_motte_chalancon
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Cornillac"
+is_city = yes
+discovered_by = western

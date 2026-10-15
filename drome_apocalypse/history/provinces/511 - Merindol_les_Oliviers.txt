@@ -1,0 +1,13 @@
+owner = MLE
+controller = MLE
+add_core = MLE
+culture = cul_nyons
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Merindol-les-Oliviers"
+is_city = yes
+discovered_by = western

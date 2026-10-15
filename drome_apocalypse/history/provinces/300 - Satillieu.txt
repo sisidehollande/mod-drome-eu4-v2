@@ -1,0 +1,13 @@
+owner = SIL
+controller = SIL
+add_core = SIL
+culture = cul_annonay
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = wine
+capital = "Satillieu"
+is_city = yes
+discovered_by = western

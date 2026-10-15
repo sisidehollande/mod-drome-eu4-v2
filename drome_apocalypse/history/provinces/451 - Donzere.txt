@@ -1,0 +1,13 @@
+owner = DON
+controller = DON
+add_core = DON
+culture = cul_pierrelatte
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 6
+base_manpower = 4
+trade_goods = iron
+capital = "Donzere"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_privas
+religion = catholic
+capital = 247
+
+2055.1.1 = {
+	monarch = {
+		name = "Henri"
+		dynasty = "de Saint-Julien-en-Saint-Alban"
+		birth_date = 2002.7.19
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}

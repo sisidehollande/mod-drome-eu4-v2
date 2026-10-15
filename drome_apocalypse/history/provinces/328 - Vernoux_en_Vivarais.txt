@@ -1,0 +1,13 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = wine
+capital = "Vernoux-en-Vivarais"
+is_city = yes
+discovered_by = western

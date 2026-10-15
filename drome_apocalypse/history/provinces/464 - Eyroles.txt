@@ -1,0 +1,13 @@
+owner = EYR
+controller = EYR
+add_core = EYR
+culture = cul_nyons
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Eyroles"
+is_city = yes
+discovered_by = western

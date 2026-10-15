@@ -1,0 +1,13 @@
+owner = SA0
+controller = SA0
+add_core = SA0
+culture = cul_saint_barthelemy_de_vals
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+trade_goods = iron
+capital = "Saint-Vallier"
+is_city = yes
+discovered_by = western

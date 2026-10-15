@@ -1,0 +1,13 @@
+owner = GGO
+controller = GGO
+add_core = GGO
+culture = cul_pierrelatte
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = livestock
+capital = "Granges-Gontardes"
+is_city = yes
+discovered_by = western

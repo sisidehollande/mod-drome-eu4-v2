@@ -1,0 +1,11 @@
+zombieg = {
+	graphical_culture = westerngfx
+
+	male_names = { Rodeur Errant Gisant Hurleur }
+	female_names = { Rodeuse Errante Gisante Hurleuse }
+	dynasty_names = { "Horde" "Meute" "Charnier" }
+
+	zombiec = {
+		primary = ZOM
+	}
+}

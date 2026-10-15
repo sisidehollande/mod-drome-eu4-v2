@@ -1,0 +1,13 @@
+owner = STA
+controller = STA
+add_core = STA
+culture = cul_saint_sauveur_de_cruzieres
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = livestock
+capital = "Saint-Andre-de-Cruzieres"
+is_city = yes
+discovered_by = western

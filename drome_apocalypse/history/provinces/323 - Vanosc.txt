@@ -1,0 +1,13 @@
+owner = VAN
+controller = VAN
+add_core = VAN
+culture = cul_annonay
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = silk
+capital = "Vanosc"
+is_city = yes
+discovered_by = western

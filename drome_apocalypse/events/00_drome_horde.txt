@@ -1,0 +1,242 @@
+namespace = drome_horde
+
+# Choix de l'ampleur de la horde (premier joueur, debut de partie)
+country_event = {
+	id = drome_horde.1
+	title = drome_horde.1.t
+	desc = drome_horde.1.d
+	picture = MILITARY_CAMP_eventPicture
+	trigger = {
+		ai = no
+		NOT = { has_global_flag = horde_difficulte_choisie }
+	}
+	mean_time_to_happen = { days = 3 }
+	fire_only_once = yes
+	immediate = {
+		set_global_flag = horde_difficulte_choisie
+	}
+	option = {
+		name = drome_horde.1.a
+		set_global_flag = horde_facile
+	}
+	option = {
+		name = drome_horde.1.b
+		set_global_flag = horde_normale
+	}
+	option = {
+		name = drome_horde.1.c
+		set_global_flag = horde_brutale
+	}
+}
+
+# Avertissement : des feux sur la mer (2155)
+country_event = {
+	id = drome_horde.2
+	title = drome_horde.2.t
+	desc = drome_horde.2.d
+	picture = HARBOUR_eventPicture
+	trigger = {
+		ai = no
+		is_year = 2155
+		NOT = { has_country_flag = horde_avertie }
+	}
+	mean_time_to_happen = { months = 6 }
+	immediate = {
+		set_country_flag = horde_avertie
+	}
+	option = {
+		name = drome_horde.2.a
+		add_country_modifier = {
+			name = drome_guet_renforce
+			duration = 1825
+		}
+	}
+	option = {
+		name = drome_horde.2.b
+		add_prestige = 5
+	}
+}
+
+# Apparition de la horde (2156) : evenement cache
+country_event = {
+	id = drome_horde.3
+	title = drome_horde.3.t
+	desc = drome_horde.3.d
+	picture = HORDE_ON_HORSEBACK_eventPicture
+	hidden = yes
+	trigger = {
+		is_year = 2156
+		NOT = { tag = ZOM }
+		NOT = { has_global_flag = horde_apparue }
+	}
+	mean_time_to_happen = { days = 2 }
+	fire_only_once = yes
+	immediate = {
+		set_global_flag = horde_apparue
+		horde_apparition = yes
+	}
+	option = {
+		name = drome_horde.3.a
+	}
+}
+
+# Annonce aux joueurs
+country_event = {
+	id = drome_horde.4
+	title = drome_horde.4.t
+	desc = drome_horde.4.d
+	picture = BORDER_TENSION_eventPicture
+	trigger = {
+		ai = no
+		has_global_flag = horde_apparue
+		NOT = { has_country_flag = horde_annoncee }
+	}
+	mean_time_to_happen = { days = 1 }
+	immediate = {
+		set_country_flag = horde_annoncee
+	}
+	option = {
+		name = drome_horde.4.a
+		add_stability = 1
+	}
+}
+
+# Debarquements : la horde prend pied sur une commune cotiere
+country_event = {
+	id = drome_horde.10
+	title = drome_horde.10.t
+	desc = drome_horde.10.d
+	picture = SIEGE_eventPicture
+	hidden = yes
+	trigger = {
+		tag = ZOM
+	}
+	mean_time_to_happen = {
+		days = 60
+		modifier = {
+			factor = 2
+			has_global_flag = horde_facile
+		}
+		modifier = {
+			factor = 0.5
+			has_global_flag = horde_brutale
+		}
+	}
+	immediate = {
+		random_province = {
+			limit = {
+				is_city = yes
+				any_neighbor_province = {
+					OR = {
+						province_id = 722
+						province_id = 710
+						province_id = 711
+						province_id = 723
+					}
+				}
+				NOT = { owned_by = ZOM }
+			}
+			horde_convertir_province = yes
+		}
+	}
+	option = {
+		name = drome_horde.10.a
+	}
+}
+
+# Contagion : la horde gagne une commune voisine
+country_event = {
+	id = drome_horde.11
+	title = drome_horde.11.t
+	desc = drome_horde.11.d
+	picture = SIEGE_eventPicture
+	hidden = yes
+	trigger = {
+		tag = ZOM
+	}
+	mean_time_to_happen = {
+		days = 30
+		modifier = {
+			factor = 2
+			has_global_flag = horde_facile
+		}
+		modifier = {
+			factor = 0.5
+			has_global_flag = horde_brutale
+		}
+	}
+	immediate = {
+		random_province = {
+			limit = {
+				is_city = yes
+				NOT = { owned_by = ZOM }
+				any_neighbor_province = {
+					owned_by = ZOM
+				}
+			}
+			horde_convertir_province = yes
+		}
+	}
+	option = {
+		name = drome_horde.11.a
+	}
+}
+
+# Les communes voisines declarent la guerre a la horde
+country_event = {
+	id = drome_horde.12
+	title = drome_horde.12.t
+	desc = drome_horde.12.d
+	picture = BATTLE_eventPicture
+	hidden = yes
+	trigger = {
+		tag = ZOM
+	}
+	mean_time_to_happen = {
+		days = 12
+	}
+	immediate = {
+		random_neighbor_country = {
+			limit = {
+				NOT = { tag = ZOM }
+				NOT = { war_with = ZOM }
+			}
+			declare_war_with_cb = {
+				who = ZOM
+				casus_belli = cb_horde
+			}
+		}
+	}
+	option = {
+		name = drome_horde.12.a
+	}
+}
+
+# Victoire : la horde est eteinte
+country_event = {
+	id = drome_horde.20
+	title = drome_horde.20.t
+	desc = drome_horde.20.d
+	picture = CITY_DEVELOPMENT_eventPicture
+	trigger = {
+		ai = no
+		has_global_flag = horde_apparue
+		NOT = { exists = ZOM }
+		NOT = { has_global_flag = horde_vaincue }
+	}
+	mean_time_to_happen = { days = 3 }
+	fire_only_once = yes
+	immediate = {
+		set_global_flag = horde_vaincue
+		every_country = {
+			add_country_modifier = {
+				name = horde_vaincue_gloire
+				duration = 7300
+			}
+		}
+	}
+	option = {
+		name = drome_horde.20.a
+		add_prestige = 50
+	}
+}

@@ -1,0 +1,13 @@
+owner = RSU
+controller = RSU
+add_core = RSU
+culture = cul_crest
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Roche-sur-Grane"
+is_city = yes
+discovered_by = western

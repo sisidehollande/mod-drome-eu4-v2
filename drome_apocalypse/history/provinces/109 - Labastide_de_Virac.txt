@@ -1,0 +1,13 @@
+owner = LDE
+controller = LDE
+add_core = LDE
+culture = cul_vallon_pont_d_arc
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Labastide-de-Virac"
+is_city = yes
+discovered_by = western

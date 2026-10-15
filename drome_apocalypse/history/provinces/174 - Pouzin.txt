@@ -1,0 +1,13 @@
+owner = POZ
+controller = POZ
+add_core = POZ
+culture = cul_livron_sur_drome
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = grain
+capital = "Pouzin"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = VSS
+controller = VSS
+add_core = VSS
+culture = cul_saint_agnan_en_vercors
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+capital = "Vassieux-en-Vercors"
+is_city = yes
+discovered_by = western

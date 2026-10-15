@@ -1,0 +1,13 @@
+owner = CEA
+controller = CEA
+add_core = CEA
+culture = cul_hauterives
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = wool
+capital = "Chateauneuf-de-Galaure"
+is_city = yes
+discovered_by = western

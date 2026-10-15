@@ -1,0 +1,13 @@
+owner = CLA
+controller = CLA
+add_core = CLA
+culture = cul_chauvac_laux_montaux
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Chauvac-Laux-Montaux"
+is_city = yes
+discovered_by = western

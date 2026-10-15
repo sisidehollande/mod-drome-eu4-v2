@@ -1,0 +1,13 @@
+owner = ALL
+controller = ALL
+add_core = ALL
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = grain
+capital = "Allan"
+is_city = yes
+discovered_by = western

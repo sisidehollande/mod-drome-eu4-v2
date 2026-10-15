@@ -1,0 +1,13 @@
+owner = CAU
+controller = CAU
+add_core = CAU
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+trade_goods = grain
+capital = "Chateauneuf-sur-Isere"
+is_city = yes
+discovered_by = western

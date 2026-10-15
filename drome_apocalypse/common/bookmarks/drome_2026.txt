@@ -1,0 +1,11 @@
+bookmark = {
+	name = "DROME_2026_NAME"
+	desc = "DROME_2026_DESC"
+	date = 2056.1.1
+	default = yes
+
+	country = VAE
+	country = MEL
+	country = PRI
+	country = AUB
+}

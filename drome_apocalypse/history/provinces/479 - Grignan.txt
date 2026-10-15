@@ -1,0 +1,13 @@
+owner = GRI
+controller = GRI
+add_core = GRI
+culture = cul_grignan
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = grain
+capital = "Grignan"
+is_city = yes
+discovered_by = western

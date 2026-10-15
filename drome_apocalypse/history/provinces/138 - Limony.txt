@@ -1,0 +1,13 @@
+owner = LIM
+controller = LIM
+add_core = LIM
+culture = cul_saint_rambert_d_albon
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = silk
+capital = "Limony"
+is_city = yes
+discovered_by = western

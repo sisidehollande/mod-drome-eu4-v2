@@ -1,0 +1,13 @@
+owner = LSO
+controller = LSO
+add_core = LSO
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = iron
+capital = "Lachapelle-sous-Aubenas"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = BAR
+controller = BAR
+add_core = BAR
+culture = cul_thueyts
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Barnas"
+is_city = yes
+discovered_by = western

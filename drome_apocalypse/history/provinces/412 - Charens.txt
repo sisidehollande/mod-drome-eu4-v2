@@ -1,0 +1,13 @@
+owner = CNS
+controller = CNS
+add_core = CNS
+culture = cul_luc_en_diois
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Charens"
+is_city = yes
+discovered_by = western

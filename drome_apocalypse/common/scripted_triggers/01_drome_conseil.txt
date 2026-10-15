@@ -1,0 +1,27 @@
+# Assemblee generale : au moins 350 communes (environ la moitie) ont vote oui
+conseil_adopte = {
+	calc_true_if = {
+		all_country = {
+			has_country_flag = conseil_oui
+		}
+		amount = 350
+	}
+}
+
+# Conseil : majorite de 11 sieges sur 20
+conseil_siege_majorite = {
+	calc_true_if = {
+		all_country = {
+			has_country_flag = conseil_siege_oui
+		}
+		amount = 11
+	}
+}
+
+# Veto : un membre permanent a vote non
+conseil_veto = {
+	any_country = {
+		has_country_flag = ccl_permanent
+		NOT = { has_country_flag = conseil_siege_oui }
+	}
+}

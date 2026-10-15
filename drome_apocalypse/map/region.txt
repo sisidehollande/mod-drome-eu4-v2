@@ -1,0 +1,172 @@
+# Genere automatiquement.
+
+# random_new_world_region is used for RNW. Must be first in this list.
+random_new_world_region = {
+}
+
+desaignes_region = {
+	areas = {
+		saint_pierreville_area
+		desaignes_area
+		gilhac_et_bruzac_area
+		pranles_area
+		saint_genest_lachamp_area
+		saint_agreve_area
+		vernoux_en_vivarais_area
+		gluiras_area
+		rompon_area
+		toulaud_area
+	}
+}
+
+rochepaule_region = {
+	areas = {
+		felines_area
+		tournon_sur_rhone_area
+		rochepaule_area
+		saint_alban_d_ay_area
+		satillieu_area
+		saint_victor_area
+		peaugres_area
+		saint_barthelemy_le_plain_area
+		annonay_area
+		etables_area
+	}
+}
+
+banne_region = {
+	areas = {
+		banne_area
+		vallon_pont_d_arc_area
+		lablachere_area
+		malarce_sur_la_thines_area
+		grospierres_area
+		sanilhac_area
+		gravieres_area
+		labeaume_area
+	}
+}
+
+astet_region = {
+	areas = {
+		lesperon_area
+		sablieres_area
+		saint_martial_area
+		thueyts_area
+		burzet_area
+		prades_area
+		saint_etienne_de_lugdares_area
+		mezilhac_area
+		astet_area
+		mazan_l_abbaye_area
+	}
+}
+
+lagorce_region = {
+	areas = {
+		saint_marcel_d_ardeche_area
+		lavilledieu_area
+		saint_vincent_de_barres_area
+		viviers_area
+		mirabel_area
+		lagorce_area
+		alba_la_romaine_area
+		bourg_saint_andeol_area
+		rochemaure_area
+		genestelle_area
+	}
+}
+
+livron_sur_drome_region = {
+	areas = {
+		montclar_sur_gervanne_area
+		livron_sur_drome_area
+		eygluy_escoulin_area
+		gigors_et_lozeron_area
+		grane_area
+		marsanne_area
+		aurel_area
+		saou_area
+		bezaudun_sur_bine_area
+	}
+}
+
+barret_de_lioure_region = {
+	areas = {
+		lachau_area
+		verclause_area
+		buis_les_baronnies_area
+		montauban_sur_l_ouveze_area
+		barret_de_lioure_area
+		roche_sur_le_buis_area
+		sederon_area
+		sainte_jalle_area
+	}
+}
+
+chateauneuf_sur_isere_region = {
+	areas = {
+		saint_sorlin_en_valloire_area
+		chateauneuf_sur_isere_area
+		montmiral_area
+		saint_barthelemy_de_vals_area
+		saint_donat_sur_l_herbasse_area
+		hauterives_area
+		chantemerle_les_bles_area
+		anneyron_area
+	}
+}
+
+grignan_region = {
+	areas = {
+		suze_la_rousse_area
+		montelimar_area
+		grignan_area
+		pont_de_barret_area
+		allan_area
+		vesc_area
+		venterol_area
+		begude_de_mazenc_area
+		montsegur_sur_lauzon_area
+		pierrelatte_area
+		vinsobres_area
+	}
+}
+
+bouvante_region = {
+	areas = {
+		saint_laurent_en_royans_area
+		die_area
+		combovin_area
+		chabeuil_area
+		romans_sur_isere_area
+		beauregard_baret_area
+		bouvante_area
+		leoncel_area
+	}
+}
+
+lus_la_croix_haute_region = {
+	areas = {
+		lus_la_croix_haute_area
+		valdrome_area
+		saint_nazaire_le_desert_area
+		bellegarde_en_diois_area
+		motte_chalancon_area
+		teyssieres_area
+		treschenu_creyers_area
+		solaure_en_diois_area
+	}
+}
+
+mer_exterieure_region = {
+	areas = {
+		mer_exterieure_area
+	}
+}
+
+iles_brume_region = {
+	areas = {
+		iles_brume_area
+	}
+}

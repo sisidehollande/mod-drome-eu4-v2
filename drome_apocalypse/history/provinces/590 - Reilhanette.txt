@@ -1,0 +1,13 @@
+owner = REI
+controller = REI
+add_core = REI
+culture = cul_montbrun_les_bains
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Reilhanette"
+is_city = yes
+discovered_by = western

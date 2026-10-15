@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_montelimar
+religion = catholic
+capital = 278
+
+2055.1.1 = {
+	monarch = {
+		name = "Marcel"
+		dynasty = "de Saint-Pons"
+		birth_date = 2009.6.24
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}

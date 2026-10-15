@@ -1,0 +1,293 @@
+# Cultures communales generees par genere_cultures.py
+cg_valence = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_valence = {
+		primary = VAE
+	}
+
+	cul_romans_sur_isere = {
+		primary = ROA
+	}
+
+	cul_tournon_sur_rhone = {
+		primary = TSU
+	}
+
+	cul_livron_sur_drome = {
+		primary = LIV
+	}
+
+	cul_crest = {
+		primary = CRS
+	}
+}
+
+cg_montelimar = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_montelimar = {
+		primary = MEL
+	}
+
+	cul_pierrelatte = {
+		primary = PRR
+	}
+
+	cul_privas = {
+		primary = PRI
+	}
+
+	cul_grignan = {
+		primary = GRI
+	}
+
+	cul_marsanne = {
+		primary = MRS
+	}
+
+	cul_valvigneres = {
+		primary = VAV
+	}
+}
+
+cg_annonay = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_annonay = {
+		primary = ANN
+	}
+
+	cul_saint_rambert_d_albon = {
+		primary = SMB
+	}
+
+	cul_lalouvesc = {
+		primary = LLO
+	}
+}
+
+cg_nyons = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_nyons = {
+		primary = NYO
+	}
+
+	cul_dieulefit = {
+		primary = DIU
+	}
+
+	cul_buis_les_baronnies = {
+		primary = BUI
+	}
+
+	cul_suze_la_rousse = {
+		primary = SUE
+	}
+
+	cul_motte_chalancon = {
+		primary = MCH
+	}
+}
+
+cg_die = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_die = {
+		primary = DIE
+	}
+
+	cul_saillans = {
+		primary = SLL
+	}
+
+	cul_luc_en_diois = {
+		primary = LUC
+	}
+
+	cul_treschenu_creyers = {
+		primary = TRE
+	}
+}
+
+cg_saint_jean_en_royans = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_saint_jean_en_royans = {
+		primary = SNR
+	}
+
+	cul_barbieres = {
+		primary = BAB
+	}
+
+	cul_saint_agnan_en_vercors = {
+		primary = SGN
+	}
+}
+
+cg_cheylard = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_cheylard = {
+		primary = CHY
+	}
+
+	cul_lamastre = {
+		primary = LAM
+	}
+
+	cul_duniere_sur_eyrieux = {
+		primary = DUN
+	}
+
+	cul_saint_martial = {
+		primary = STM
+	}
+
+	cul_mars = {
+		primary = MAS
+	}
+}
+
+cg_vans = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_vans = {
+		primary = VAS
+	}
+
+	cul_vallon_pont_d_arc = {
+		primary = VPO
+	}
+
+	cul_joyeuse = {
+		primary = JOY
+	}
+
+	cul_saint_sauveur_de_cruzieres = {
+		primary = SSA
+	}
+
+	cul_sablieres = {
+		primary = SAB
+	}
+}
+
+cg_hauterives = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_hauterives = {
+		primary = HAU
+	}
+
+	cul_saint_barthelemy_de_vals = {
+		primary = SMY
+	}
+
+	cul_montmiral = {
+		primary = MOI
+	}
+}
+
+cg_thueyts = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_aubenas = {
+		primary = AUB
+	}
+
+	cul_thueyts = {
+		primary = THU
+	}
+
+	cul_antraigues_sur_volane = {
+		primary = ANT
+	}
+
+	cul_coucouron = {
+		primary = COU
+	}
+
+	cul_saint_etienne_de_lugdares = {
+		primary = STI
+	}
+}
+
+cg_lus_la_croix_haute = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_lus_la_croix_haute = {
+		primary = LLA
+	}
+
+	cul_valdrome = {
+		primary = VAD
+	}
+}
+
+cg_montbrun_les_bains = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" "Mounier" "Chabert" "Brun" "Fabre" "Arnaud" "Vernet" "Rey" "Bouvier" "Peyrard" "Ollivier" "Reynaud" "Chauvin" "Vallon" "Combe" "Duclaux" "Montagne" "Rochas" "Delaye" "Souchon" "Lafont" "Pradier" "Bertrand" }
+
+	cul_montbrun_les_bains = {
+		primary = MTB
+	}
+
+	cul_lachau = {
+		primary = LAH
+	}
+
+	cul_chauvac_laux_montaux = {
+		primary = CLA
+	}
+}
+

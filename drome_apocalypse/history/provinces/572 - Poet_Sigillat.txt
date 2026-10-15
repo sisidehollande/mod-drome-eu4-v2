@@ -1,0 +1,13 @@
+owner = PSI
+controller = PSI
+add_core = PSI
+culture = cul_buis_les_baronnies
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Poet-Sigillat"
+is_city = yes
+discovered_by = western

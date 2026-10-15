@@ -1,0 +1,13 @@
+owner = STD
+controller = STD
+add_core = STD
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Saint-Vincent-de-Durfort"
+is_city = yes
+discovered_by = western

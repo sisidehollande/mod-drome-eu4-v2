@@ -1,0 +1,13 @@
+owner = CHS
+controller = CHS
+add_core = CHS
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = wine
+capital = "Chassiers"
+is_city = yes
+discovered_by = western

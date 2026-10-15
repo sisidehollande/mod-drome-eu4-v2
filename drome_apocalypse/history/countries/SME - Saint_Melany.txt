@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_sablieres
+religion = catholic
+capital = 266
+
+2055.1.1 = {
+	monarch = {
+		name = "Paul"
+		dynasty = "de Saint-Melany"
+		birth_date = 2015.6.4
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

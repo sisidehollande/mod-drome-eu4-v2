@@ -1,0 +1,13 @@
+owner = PTD
+controller = PTD
+add_core = PTD
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 5
+base_manpower = 3
+trade_goods = wool
+capital = "Pont-de-l'Isere"
+is_city = yes
+discovered_by = western

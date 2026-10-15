@@ -1,0 +1,13 @@
+owner = SMB
+controller = SMB
+add_core = SMB
+culture = cul_saint_rambert_d_albon
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 7
+base_manpower = 4
+trade_goods = livestock
+capital = "Saint-Rambert-d'Albon"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = ROT
+controller = ROT
+add_core = ROT
+culture = cul_saint_martial
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = silk
+capital = "Rochette"
+is_city = yes
+discovered_by = western

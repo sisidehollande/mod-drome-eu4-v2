@@ -1,0 +1,13 @@
+owner = SA4
+controller = SA4
+add_core = SA4
+culture = cul_crest
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Suze"
+is_city = yes
+discovered_by = western

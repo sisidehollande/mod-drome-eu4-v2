@@ -1,0 +1,13 @@
+owner = VAA
+controller = VAA
+add_core = VAA
+culture = cul_pierrelatte
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = livestock
+capital = "Valaurie"
+is_city = yes
+discovered_by = western

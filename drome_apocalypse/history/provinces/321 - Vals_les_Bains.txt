@@ -1,0 +1,13 @@
+owner = VLE
+controller = VLE
+add_core = VLE
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 5
+base_manpower = 3
+trade_goods = wool
+capital = "Vals-les-Bains"
+is_city = yes
+discovered_by = western

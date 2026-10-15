@@ -1,0 +1,13 @@
+owner = GUI
+controller = GUI
+add_core = GUI
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 9
+base_manpower = 5
+trade_goods = grain
+capital = "Guilherand-Granges"
+is_city = yes
+discovered_by = western

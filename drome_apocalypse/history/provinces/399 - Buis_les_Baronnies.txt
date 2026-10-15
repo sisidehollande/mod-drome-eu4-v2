@@ -1,0 +1,13 @@
+owner = BUI
+controller = BUI
+add_core = BUI
+culture = cul_buis_les_baronnies
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = iron
+capital = "Buis-les-Baronnies"
+is_city = yes
+discovered_by = western

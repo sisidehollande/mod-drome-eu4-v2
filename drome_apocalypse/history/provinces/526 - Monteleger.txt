@@ -1,0 +1,13 @@
+owner = MOE
+controller = MOE
+add_core = MOE
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = livestock
+capital = "Monteleger"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = BUS
+controller = BUS
+add_core = BUS
+culture = cul_saint_rambert_d_albon
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = cloth
+capital = "Beausemblant"
+is_city = yes
+discovered_by = western

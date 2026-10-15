@@ -1,0 +1,13 @@
+owner = MOU
+controller = MOU
+add_core = MOU
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 5
+base_manpower = 3
+trade_goods = wine
+capital = "Mours-Saint-Eusebe"
+is_city = yes
+discovered_by = western

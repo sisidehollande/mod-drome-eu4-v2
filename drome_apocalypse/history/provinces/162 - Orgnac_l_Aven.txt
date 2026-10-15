@@ -1,0 +1,13 @@
+owner = ORG
+controller = ORG
+add_core = ORG
+culture = cul_vallon_pont_d_arc
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = silk
+capital = "Orgnac-l'Aven"
+is_city = yes
+discovered_by = western

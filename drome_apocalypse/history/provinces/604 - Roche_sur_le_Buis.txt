@@ -1,0 +1,13 @@
+owner = RUR
+controller = RUR
+add_core = RUR
+culture = cul_buis_les_baronnies
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = silk
+capital = "Roche-sur-le-Buis"
+is_city = yes
+discovered_by = western

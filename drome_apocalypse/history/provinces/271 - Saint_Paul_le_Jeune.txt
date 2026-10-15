@@ -1,0 +1,13 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+culture = cul_vans
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = wool
+capital = "Saint-Paul-le-Jeune"
+is_city = yes
+discovered_by = western

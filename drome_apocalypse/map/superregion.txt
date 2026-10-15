@@ -1,0 +1,22 @@
+# Genere automatiquement.
+
+ardeche_superregion = {
+	desaignes_region
+	rochepaule_region
+	banne_region
+	astet_region
+	lagorce_region
+}
+
+drome_superregion = {
+	livron_sur_drome_region
+	barret_de_lioure_region
+	chateauneuf_sur_isere_region
+	grignan_region
+	bouvante_region
+	lus_la_croix_haute_region
+}
+
+brume_superregion = {
+	iles_brume_region
+}

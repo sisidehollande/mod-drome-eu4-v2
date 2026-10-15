@@ -1,0 +1,7 @@
+nougat = {
+	base_price = 3
+}
+
+lavande = {
+	base_price = 3
+}

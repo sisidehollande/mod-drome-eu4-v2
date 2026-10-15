@@ -1,0 +1,11 @@
+# Reformes du Conseil des Communes Libres (placeholder : a remplacer par les vraies reformes)
+ccl_charte = {
+	empire = hre
+	potential = {
+		has_dlc = "Emperor"
+	}
+	province = {
+		local_unrest = -0.5
+	}
+	gui_container = mainline
+}

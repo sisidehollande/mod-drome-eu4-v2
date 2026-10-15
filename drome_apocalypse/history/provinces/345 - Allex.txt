@@ -1,0 +1,13 @@
+owner = AEX
+controller = AEX
+add_core = AEX
+culture = cul_livron_sur_drome
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = wool
+capital = "Allex"
+is_city = yes
+discovered_by = western

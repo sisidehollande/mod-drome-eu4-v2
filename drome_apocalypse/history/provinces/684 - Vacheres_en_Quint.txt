@@ -1,0 +1,13 @@
+owner = VAC
+controller = VAC
+add_core = VAC
+culture = cul_die
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Vacheres-en-Quint"
+is_city = yes
+discovered_by = western

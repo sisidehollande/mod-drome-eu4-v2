@@ -1,0 +1,13 @@
+owner = MTC
+controller = MTC
+add_core = MTC
+culture = cul_saillans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Montclar-sur-Gervanne"
+is_city = yes
+discovered_by = western

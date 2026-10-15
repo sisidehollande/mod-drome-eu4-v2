@@ -1,0 +1,13 @@
+owner = SNC
+controller = SNC
+add_core = SNC
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = wool
+capital = "Saint-Vincent-de-Barres"
+is_city = yes
+discovered_by = western

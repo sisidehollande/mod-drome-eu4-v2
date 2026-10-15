@@ -1,0 +1,12 @@
+owner = VAE
+controller = VAE
+add_core = VAE
+culture = cul_valence
+religion = wauquiez
+hre = yes
+base_tax = 6
+base_production = 6
+base_manpower = 4
+trade_goods = livestock
+is_city = yes
+discovered_by = western

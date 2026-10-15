@@ -1,0 +1,13 @@
+owner = MET
+controller = MET
+add_core = MET
+culture = cul_crest
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = cloth
+capital = "Mirabel-et-Blacons"
+is_city = yes
+discovered_by = western

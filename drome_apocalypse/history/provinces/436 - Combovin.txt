@@ -1,0 +1,13 @@
+owner = COM
+controller = COM
+add_core = COM
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = iron
+capital = "Combovin"
+is_city = yes
+discovered_by = western

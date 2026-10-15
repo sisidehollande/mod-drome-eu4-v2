@@ -1,0 +1,13 @@
+owner = SAE
+controller = SAE
+add_core = SAE
+culture = cul_cheylard
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Saint-Clement"
+is_city = yes
+discovered_by = western

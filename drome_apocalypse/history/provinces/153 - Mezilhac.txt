@@ -1,0 +1,13 @@
+owner = MEZ
+controller = MEZ
+add_core = MEZ
+culture = cul_antraigues_sur_volane
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Mezilhac"
+is_city = yes
+discovered_by = western

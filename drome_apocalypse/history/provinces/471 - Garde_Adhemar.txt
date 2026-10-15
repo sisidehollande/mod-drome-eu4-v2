@@ -1,0 +1,13 @@
+owner = GAR
+controller = GAR
+add_core = GAR
+culture = cul_pierrelatte
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = iron
+capital = "Garde-Adhemar"
+is_city = yes
+discovered_by = western

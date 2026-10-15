@@ -1,0 +1,13 @@
+owner = ETO
+controller = ETO
+add_core = ETO
+culture = cul_livron_sur_drome
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 6
+base_manpower = 4
+trade_goods = silk
+capital = "Etoile-sur-Rhone"
+is_city = yes
+discovered_by = western

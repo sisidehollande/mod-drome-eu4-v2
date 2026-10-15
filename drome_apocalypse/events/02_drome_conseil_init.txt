@@ -1,0 +1,28 @@
+namespace = drome_ccl
+
+# Initialisation : toutes les communes entrent au Conseil (fenetre native)
+country_event = {
+	id = drome_ccl.1
+	title = drome_conseil.30.t
+	desc = drome_conseil.30.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	hidden = yes
+	fire_only_once = yes
+	trigger = {
+		NOT = { tag = ZOM }
+	}
+	mean_time_to_happen = { days = 1 }
+	immediate = {
+		every_country = {
+			limit = {
+				NOT = { tag = ZOM }
+			}
+			every_owned_province = {
+				set_in_empire = yes
+			}
+		}
+	}
+	option = {
+		name = drome_conseil.30.a
+	}
+}

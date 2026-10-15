@@ -1,0 +1,13 @@
+owner = DES
+controller = DES
+add_core = DES
+culture = cul_lamastre
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = wool
+capital = "Desaignes"
+is_city = yes
+discovered_by = western

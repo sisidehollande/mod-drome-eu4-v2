@@ -1,0 +1,13 @@
+owner = MTE
+controller = MTE
+add_core = MTE
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+trade_goods = cloth
+capital = "Montelier"
+is_city = yes
+discovered_by = western

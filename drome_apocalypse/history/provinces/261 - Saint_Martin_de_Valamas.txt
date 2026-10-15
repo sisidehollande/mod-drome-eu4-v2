@@ -1,0 +1,13 @@
+owner = SEV
+controller = SEV
+add_core = SEV
+culture = cul_cheylard
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = grain
+capital = "Saint-Martin-de-Valamas"
+is_city = yes
+discovered_by = western

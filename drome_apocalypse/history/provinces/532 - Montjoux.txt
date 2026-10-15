@@ -1,0 +1,13 @@
+owner = MOJ
+controller = MOJ
+add_core = MOJ
+culture = cul_dieulefit
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = silk
+capital = "Montjoux"
+is_city = yes
+discovered_by = western

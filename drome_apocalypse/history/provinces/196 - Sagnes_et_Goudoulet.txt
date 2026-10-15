@@ -1,0 +1,13 @@
+owner = SAG
+controller = SAG
+add_core = SAG
+culture = cul_saint_martial
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Sagnes-et-Goudoulet"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_tournon_sur_rhone
+religion = catholic
+capital = 135
+
+2055.1.1 = {
+	monarch = {
+		name = "Andre"
+		dynasty = "de Lemps"
+		birth_date = 1998.11.19
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

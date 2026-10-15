@@ -1,0 +1,13 @@
+owner = SIC
+controller = SIC
+add_core = SIC
+culture = cul_valvigneres
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Saint-Maurice-d'Ibie"
+is_city = yes
+discovered_by = western

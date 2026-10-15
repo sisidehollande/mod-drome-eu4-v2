@@ -1,0 +1,13 @@
+owner = MOC
+controller = MOC
+add_core = MOC
+culture = cul_hauterives
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = wine
+capital = "Montchenu"
+is_city = yes
+discovered_by = western

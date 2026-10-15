@@ -1,0 +1,13 @@
+owner = IZO
+controller = IZO
+add_core = IZO
+culture = cul_lachau
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Izon-la-Bruisse"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = LLO
+controller = LLO
+add_core = LLO
+culture = cul_lalouvesc
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+capital = "Lalouvesc"
+is_city = yes
+discovered_by = western

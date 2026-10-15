@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_cheylard
+religion = catholic
+capital = 78
+
+2055.1.1 = {
+	monarch = {
+		name = "Marcel"
+		dynasty = "de Dornas"
+		birth_date = 2019.2.8
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}

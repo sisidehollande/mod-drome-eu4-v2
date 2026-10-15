@@ -1,0 +1,13 @@
+owner = ROS
+controller = ROS
+add_core = ROS
+culture = cul_joyeuse
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = iron
+capital = "Rosieres"
+is_city = yes
+discovered_by = western

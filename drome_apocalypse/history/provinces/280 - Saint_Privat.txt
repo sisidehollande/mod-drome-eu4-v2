@@ -1,0 +1,13 @@
+owner = SIV
+controller = SIV
+add_core = SIV
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = livestock
+capital = "Saint-Privat"
+is_city = yes
+discovered_by = western

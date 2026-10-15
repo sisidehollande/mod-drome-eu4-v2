@@ -1,0 +1,13 @@
+owner = STE
+controller = STE
+add_core = STE
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = grain
+capital = "Saint-Etienne-de-Fontbellon"
+is_city = yes
+discovered_by = western

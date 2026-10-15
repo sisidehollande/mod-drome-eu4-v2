@@ -1,0 +1,13 @@
+owner = VAV
+controller = VAV
+add_core = VAV
+culture = cul_valvigneres
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Valvigneres"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = STP
+controller = STP
+add_core = STP
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Saint-Pierre-la-Roche"
+is_city = yes
+discovered_by = western

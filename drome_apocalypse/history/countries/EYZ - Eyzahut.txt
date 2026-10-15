@@ -1,0 +1,29 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_dieulefit
+religion = catholic
+capital = 465
+
+2055.1.1 = {
+	monarch = {
+		name = "Sebastien"
+		dynasty = "Deleaud"
+		birth_date = 1978.1.7
+		death_date = 2055.1.7
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	heir = {
+		name = "Nathanael"
+		dynasty = "Beranger"
+		claim = 40 #pas le fils de Seb, en plus il a 3 neveux et 1 niece.
+		birth_date = 2003.4.4
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

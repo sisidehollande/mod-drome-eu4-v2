@@ -1,0 +1,13 @@
+owner = SRA
+controller = SRA
+add_core = SRA
+culture = cul_annonay
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = silk
+capital = "Sarras"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = LIO
+controller = LIO
+add_core = LIO
+culture = cul_antraigues_sur_volane
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Laviolle"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = MOO
+controller = MOO
+add_core = MOO
+culture = cul_livron_sur_drome
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = cloth
+capital = "Montoison"
+is_city = yes
+discovered_by = western

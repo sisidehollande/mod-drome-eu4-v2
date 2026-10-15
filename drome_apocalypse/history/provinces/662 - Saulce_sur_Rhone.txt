@@ -1,0 +1,13 @@
+owner = SLC
+controller = SLC
+add_core = SLC
+culture = cul_livron_sur_drome
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = grain
+capital = "Saulce-sur-Rhone"
+is_city = yes
+discovered_by = western

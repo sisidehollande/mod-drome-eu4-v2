@@ -1,0 +1,13 @@
+owner = STT
+controller = STT
+add_core = STT
+culture = cul_saint_jean_en_royans
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = silk
+capital = "Saint-Thomas-en-Royans"
+is_city = yes
+discovered_by = western

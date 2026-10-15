@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_great_project_rochemaure_castle"
+		texturefile = "gfx//interface//great_projects//great_project_rochemaure_castle.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_adhemar_castle"
+		texturefile = "gfx//interface//great_projects//great_project_adhemar_castle.dds"
+	}
+}

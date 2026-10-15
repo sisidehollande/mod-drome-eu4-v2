@@ -1,0 +1,13 @@
+owner = USC
+controller = USC
+add_core = USC
+culture = cul_thueyts
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Usclades-et-Rieutord"
+is_city = yes
+discovered_by = western

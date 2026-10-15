@@ -1,0 +1,13 @@
+owner = SCA
+controller = SCA
+add_core = SCA
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Sceautres"
+is_city = yes
+discovered_by = western

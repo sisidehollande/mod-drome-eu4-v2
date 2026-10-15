@@ -1,0 +1,13 @@
+owner = MCH
+controller = MCH
+add_core = MCH
+culture = cul_motte_chalancon
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = silk
+capital = "Motte-Chalancon"
+is_city = yes
+discovered_by = western

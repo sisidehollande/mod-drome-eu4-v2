@@ -1,0 +1,13 @@
+owner = CLV
+controller = CLV
+add_core = CLV
+culture = cul_saint_barthelemy_de_vals
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = livestock
+capital = "Claveyson"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = VEY
+controller = VEY
+add_core = VEY
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = livestock
+capital = "Veyras"
+is_city = yes
+discovered_by = western

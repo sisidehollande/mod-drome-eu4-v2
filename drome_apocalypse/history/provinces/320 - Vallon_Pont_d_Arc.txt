@@ -1,0 +1,13 @@
+owner = VPO
+controller = VPO
+add_core = VPO
+culture = cul_vallon_pont_d_arc
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = grain
+capital = "Vallon-Pont-d'Arc"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,96 @@
+# Convertit la province courante en territoire de la horde
+horde_convertir_province = {
+	change_religion = r_zombie
+	change_culture = zombiec
+	add_core = ZOM
+	cede_province = ZOM
+	ZOM = {
+		infantry = PREV
+		infantry = PREV
+		infantry = PREV
+		infantry = PREV
+	}
+}
+
+# Apparition de la horde sur les quatre iles
+horde_apparition = {
+	817 = {
+		change_religion = r_zombie
+		change_culture = zombiec
+		add_core = ZOM
+		cede_province = ZOM
+		ZOM = {
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+		}
+	}
+	818 = {
+		change_religion = r_zombie
+		change_culture = zombiec
+		add_core = ZOM
+		cede_province = ZOM
+		ZOM = {
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+		}
+	}
+	819 = {
+		change_religion = r_zombie
+		change_culture = zombiec
+		add_core = ZOM
+		cede_province = ZOM
+		ZOM = {
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+		}
+	}
+	820 = {
+		change_religion = r_zombie
+		change_culture = zombiec
+		add_core = ZOM
+		cede_province = ZOM
+		ZOM = {
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+			infantry = PREV
+		}
+	}
+	ZOM = {
+		add_country_modifier = {
+			name = horde_zombie
+			duration = -1
+		}
+	}
+	every_country = {
+		limit = {
+			NOT = { tag = ZOM }
+		}
+		add_country_modifier = {
+			name = unity_against_zombies
+			duration = 3650
+		}
+	}
+}

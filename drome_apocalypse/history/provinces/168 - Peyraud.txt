@@ -1,0 +1,13 @@
+owner = PEY
+controller = PEY
+add_core = PEY
+culture = cul_saint_rambert_d_albon
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = iron
+capital = "Peyraud"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_suze_la_rousse
+religion = catholic
+capital = 390
+
+2055.1.1 = {
+	monarch = {
+		name = "Claude"
+		dynasty = "de Bouchet"
+		birth_date = 2013.2.24
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

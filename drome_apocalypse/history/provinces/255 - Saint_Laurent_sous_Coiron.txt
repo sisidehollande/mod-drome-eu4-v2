@@ -1,0 +1,13 @@
+owner = STS
+controller = STS
+add_core = STS
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Saint-Laurent-sous-Coiron"
+is_city = yes
+discovered_by = western

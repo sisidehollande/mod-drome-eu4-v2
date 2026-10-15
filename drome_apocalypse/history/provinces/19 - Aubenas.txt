@@ -1,0 +1,13 @@
+owner = AUB
+controller = AUB
+add_core = AUB
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 8
+base_production = 8
+base_manpower = 6
+trade_goods = wine
+capital = "Aubenas"
+is_city = yes
+discovered_by = western

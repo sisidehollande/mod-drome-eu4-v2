@@ -1,0 +1,13 @@
+owner = ECL
+controller = ECL
+add_core = ECL
+culture = cul_annonay
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = wine
+capital = "Eclassan"
+is_city = yes
+discovered_by = western

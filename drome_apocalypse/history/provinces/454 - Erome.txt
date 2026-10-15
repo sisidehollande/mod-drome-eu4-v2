@@ -1,0 +1,13 @@
+owner = ERO
+controller = ERO
+add_core = ERO
+culture = cul_saint_barthelemy_de_vals
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = livestock
+capital = "Erome"
+is_city = yes
+discovered_by = western

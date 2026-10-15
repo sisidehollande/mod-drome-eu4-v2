@@ -1,0 +1,13 @@
+owner = OZO
+controller = OZO
+add_core = OZO
+culture = cul_saint_barthelemy_de_vals
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Ozon"
+is_city = yes
+discovered_by = western

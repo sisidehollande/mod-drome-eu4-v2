@@ -1,0 +1,13 @@
+owner = JAN
+controller = JAN
+add_core = JAN
+culture = cul_cheylard
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Jaunac"
+is_city = yes
+discovered_by = western

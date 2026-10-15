@@ -1,0 +1,13 @@
+owner = CSA
+controller = CSA
+add_core = CSA
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = iron
+capital = "Chatillon-Saint-Jean"
+is_city = yes
+discovered_by = western

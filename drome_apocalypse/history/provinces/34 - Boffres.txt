@@ -1,0 +1,13 @@
+owner = BOF
+controller = BOF
+add_core = BOF
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+capital = "Boffres"
+is_city = yes
+discovered_by = western

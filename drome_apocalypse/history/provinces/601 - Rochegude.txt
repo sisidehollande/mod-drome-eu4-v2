@@ -1,0 +1,13 @@
+owner = ROG
+controller = ROG
+add_core = ROG
+culture = cul_suze_la_rousse
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = cloth
+capital = "Rochegude"
+is_city = yes
+discovered_by = western

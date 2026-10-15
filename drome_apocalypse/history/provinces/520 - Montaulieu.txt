@@ -1,0 +1,13 @@
+owner = MOA
+controller = MOA
+add_core = MOA
+culture = cul_nyons
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Montaulieu"
+is_city = yes
+discovered_by = western

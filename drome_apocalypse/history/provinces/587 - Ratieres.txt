@@ -1,0 +1,13 @@
+owner = RAT
+controller = RAT
+add_core = RAT
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Ratieres"
+is_city = yes
+discovered_by = western

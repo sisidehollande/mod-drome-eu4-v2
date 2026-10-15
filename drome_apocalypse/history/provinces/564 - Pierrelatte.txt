@@ -1,0 +1,13 @@
+owner = PRR
+controller = PRR
+add_core = PRR
+culture = cul_pierrelatte
+religion = catholic
+hre = yes
+base_tax = 8
+base_production = 9
+base_manpower = 6
+trade_goods = cloth
+capital = "Pierrelatte"
+is_city = yes
+discovered_by = western

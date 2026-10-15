@@ -1,0 +1,13 @@
+owner = SNE
+controller = SNE
+add_core = SNE
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = wool
+capital = "Saint-Julien-en-Saint-Alban"
+is_city = yes
+discovered_by = western

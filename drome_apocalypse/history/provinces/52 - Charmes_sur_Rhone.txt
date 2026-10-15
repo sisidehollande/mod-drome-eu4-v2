@@ -1,0 +1,13 @@
+owner = CSU
+controller = CSU
+add_core = CSU
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = grain
+capital = "Charmes-sur-Rhone"
+is_city = yes
+discovered_by = western

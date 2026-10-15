@@ -1,0 +1,13 @@
+owner = SMM
+controller = SMM
+add_core = SMM
+culture = cul_barbieres
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = iron
+capital = "Saint-Vincent-la-Commanderie"
+is_city = yes
+discovered_by = western

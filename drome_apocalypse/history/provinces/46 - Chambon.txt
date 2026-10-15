@@ -1,0 +1,13 @@
+owner = CHM
+controller = CHM
+add_core = CHM
+culture = cul_saint_martial
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Chambon"
+is_city = yes
+discovered_by = western

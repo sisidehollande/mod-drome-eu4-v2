@@ -1,0 +1,13 @@
+owner = SA2
+controller = SA2
+add_core = SA2
+culture = cul_crest
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = livestock
+capital = "Saou"
+is_city = yes
+discovered_by = western

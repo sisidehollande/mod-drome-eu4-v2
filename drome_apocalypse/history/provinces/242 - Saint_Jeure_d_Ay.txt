@@ -1,0 +1,13 @@
+owner = SRE
+controller = SRE
+add_core = SRE
+culture = cul_annonay
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = cloth
+capital = "Saint-Jeure-d'Ay"
+is_city = yes
+discovered_by = western

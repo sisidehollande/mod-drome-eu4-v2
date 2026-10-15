@@ -1,0 +1,13 @@
+owner = SES
+controller = SES
+add_core = SES
+culture = cul_saint_etienne_de_lugdares
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Saint-Laurent-les-Bains"
+is_city = yes
+discovered_by = western

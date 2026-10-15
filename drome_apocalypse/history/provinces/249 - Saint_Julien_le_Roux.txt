@@ -1,0 +1,13 @@
+owner = SLE
+controller = SLE
+add_core = SLE
+culture = cul_duniere_sur_eyrieux
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Saint-Julien-le-Roux"
+is_city = yes
+discovered_by = western

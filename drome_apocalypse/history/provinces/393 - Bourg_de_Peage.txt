@@ -1,0 +1,13 @@
+owner = BRG
+controller = BRG
+add_core = BRG
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 8
+base_manpower = 5
+trade_goods = livestock
+capital = "Bourg-de-Peage"
+is_city = yes
+discovered_by = western

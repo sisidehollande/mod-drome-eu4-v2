@@ -1,0 +1,13 @@
+owner = BAS
+controller = BAS
+add_core = BAS
+culture = cul_die
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Barsac"
+is_city = yes
+discovered_by = western

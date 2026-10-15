@@ -1,0 +1,13 @@
+owner = VOU
+controller = VOU
+add_core = VOU
+culture = cul_livron_sur_drome
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 4
+trade_goods = wine
+capital = "Voulte-sur-Rhone"
+is_city = yes
+discovered_by = western

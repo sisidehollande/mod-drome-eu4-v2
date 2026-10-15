@@ -1,0 +1,13 @@
+owner = EUR
+controller = EUR
+add_core = EUR
+culture = cul_crest
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = grain
+capital = "Eurre"
+is_city = yes
+discovered_by = western

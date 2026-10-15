@@ -1,0 +1,13 @@
+owner = AMB
+controller = AMB
+add_core = AMB
+culture = cul_livron_sur_drome
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Ambonil"
+is_city = yes
+discovered_by = western

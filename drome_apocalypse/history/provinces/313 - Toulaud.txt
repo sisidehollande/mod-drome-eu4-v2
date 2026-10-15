@@ -1,0 +1,13 @@
+owner = TOU
+controller = TOU
+add_core = TOU
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = wine
+capital = "Toulaud"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = SUS
+controller = SUS
+add_core = SUS
+culture = cul_pierrelatte
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = iron
+capital = "Saint-Just-d'Ardeche"
+is_city = yes
+discovered_by = western

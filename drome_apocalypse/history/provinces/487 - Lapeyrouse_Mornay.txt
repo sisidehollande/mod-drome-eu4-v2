@@ -1,0 +1,13 @@
+owner = LAP
+controller = LAP
+add_core = LAP
+culture = cul_hauterives
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = wine
+capital = "Lapeyrouse-Mornay"
+is_city = yes
+discovered_by = western

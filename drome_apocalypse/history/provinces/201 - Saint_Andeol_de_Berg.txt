@@ -1,0 +1,13 @@
+owner = SIN
+controller = SIN
+add_core = SIN
+culture = cul_valvigneres
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Saint-Andeol-de-Berg"
+is_city = yes
+discovered_by = western

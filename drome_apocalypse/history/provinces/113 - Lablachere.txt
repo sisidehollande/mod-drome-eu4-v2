@@ -1,0 +1,13 @@
+owner = LAL
+controller = LAL
+add_core = LAL
+culture = cul_joyeuse
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = grain
+capital = "Lablachere"
+is_city = yes
+discovered_by = western

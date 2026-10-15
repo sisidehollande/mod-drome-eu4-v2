@@ -1,0 +1,13 @@
+owner = SUV
+controller = SUV
+add_core = SUV
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = silk
+capital = "Saint-Sauveur-de-Montagut"
+is_city = yes
+discovered_by = western

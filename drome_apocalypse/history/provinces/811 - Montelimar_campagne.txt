@@ -1,0 +1,12 @@
+owner = MEL
+controller = MEL
+add_core = MEL
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 6
+base_manpower = 4
+trade_goods = wool
+is_city = yes
+discovered_by = western

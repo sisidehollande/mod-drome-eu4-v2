@@ -1,0 +1,13 @@
+owner = POD
+controller = POD
+add_core = POD
+culture = cul_dieulefit
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = cloth
+capital = "Pont-de-Barret"
+is_city = yes
+discovered_by = western

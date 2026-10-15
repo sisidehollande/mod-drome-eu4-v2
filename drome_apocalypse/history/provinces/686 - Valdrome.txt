@@ -1,0 +1,13 @@
+owner = VAD
+controller = VAD
+add_core = VAD
+culture = cul_valdrome
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Valdrome"
+is_city = yes
+discovered_by = western

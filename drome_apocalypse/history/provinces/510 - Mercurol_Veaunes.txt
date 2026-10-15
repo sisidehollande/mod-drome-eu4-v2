@@ -1,0 +1,13 @@
+owner = MVE
+controller = MVE
+add_core = MVE
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = iron
+capital = "Mercurol-Veaunes"
+is_city = yes
+discovered_by = western

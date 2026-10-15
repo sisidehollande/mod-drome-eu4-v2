@@ -1,0 +1,13 @@
+owner = MTL
+controller = MTL
+add_core = MTL
+culture = cul_luc_en_diois
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Montlaur-en-Diois"
+is_city = yes
+discovered_by = western

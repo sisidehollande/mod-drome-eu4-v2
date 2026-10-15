@@ -1,0 +1,13 @@
+owner = RDE
+controller = RDE
+add_core = RDE
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 5
+base_manpower = 3
+trade_goods = silk
+capital = "Roche-de-Glun"
+is_city = yes
+discovered_by = western

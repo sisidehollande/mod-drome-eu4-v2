@@ -1,0 +1,13 @@
+owner = BEN
+controller = BEN
+add_core = BEN
+culture = cul_luc_en_diois
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Beaumont-en-Diois"
+is_city = yes
+discovered_by = western

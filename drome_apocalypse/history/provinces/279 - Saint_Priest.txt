@@ -1,0 +1,13 @@
+owner = SPR
+controller = SPR
+add_core = SPR
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = cloth
+capital = "Saint-Priest"
+is_city = yes
+discovered_by = western

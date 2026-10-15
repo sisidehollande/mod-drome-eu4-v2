@@ -1,0 +1,587 @@
+namespace = drome_conseil
+
+country_event = {
+	id = drome_conseil.1
+	title = drome_conseil.1.t
+	desc = drome_conseil.1.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = drome_conseil.1.defense
+		set_global_flag = conseil_m_defense
+		country_event = { id = drome_conseil.2 }
+	}
+	option = {
+		name = drome_conseil.1.greniers
+		set_global_flag = conseil_m_greniers
+		country_event = { id = drome_conseil.2 }
+	}
+	option = {
+		name = drome_conseil.1.taxe
+		set_global_flag = conseil_m_taxe
+		country_event = { id = drome_conseil.2 }
+	}
+	option = {
+		name = drome_conseil.1.milice
+		set_global_flag = conseil_m_milice
+		country_event = { id = drome_conseil.2 }
+	}
+	option = {
+		name = drome_conseil.1.arsenal
+		set_global_flag = conseil_m_arsenal
+		country_event = { id = drome_conseil.2 }
+	}
+	option = {
+		name = drome_conseil.1.z
+		add_dip_power = 50
+	}
+}
+
+# Deux tours : Assemblee generale (1 voix par commune) puis Conseil (20 sieges, veto des 5 permanents)
+country_event = {
+	id = drome_conseil.2
+	title = drome_conseil.2.t
+	desc = drome_conseil.2.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	hidden = yes
+	is_triggered_only = yes
+	immediate = {
+		set_country_flag = conseil_proposant
+		every_country = {
+			limit = {
+				NOT = { tag = ZOM }
+			}
+			clr_country_flag = conseil_oui
+			clr_country_flag = conseil_siege_oui
+			random_list = {
+				50 = {
+					modifier = {
+						factor = 1.3
+						ROOT = { prestige = 20 }
+					}
+					modifier = {
+						factor = 3
+						has_country_flag = conseil_proposant
+					}
+					modifier = {
+						factor = 2.0
+						has_global_flag = conseil_m_defense
+						any_neighbor_country = { tag = ZOM }
+					}
+					modifier = {
+						factor = 1.6
+						has_global_flag = conseil_m_greniers
+						is_at_war = yes
+					}
+					modifier = {
+						factor = 1.7
+						has_global_flag = conseil_m_taxe
+						NOT = { treasury = 50 }
+					}
+					modifier = {
+						factor = 1.8
+						has_global_flag = conseil_m_milice
+						any_neighbor_country = { tag = ZOM }
+					}
+					modifier = {
+						factor = 1.5
+						has_global_flag = conseil_m_arsenal
+						is_at_war = yes
+					}
+					set_country_flag = conseil_oui
+				}
+				50 = {
+					clr_country_flag = conseil_oui
+				}
+			}
+		}
+		if = {
+			limit = {
+				conseil_adopte = yes
+			}
+			every_country = {
+				limit = {
+					OR = {
+						has_country_flag = ccl_permanent
+						has_country_flag = ccl_elu
+					}
+				}
+				random_list = {
+					50 = {
+						modifier = {
+							factor = 1.3
+							ROOT = { prestige = 20 }
+						}
+						modifier = {
+							factor = 3
+							has_country_flag = conseil_proposant
+						}
+						modifier = {
+							factor = 2.0
+							has_global_flag = conseil_m_defense
+							any_neighbor_country = { tag = ZOM }
+						}
+						modifier = {
+							factor = 1.6
+							has_global_flag = conseil_m_greniers
+							is_at_war = yes
+						}
+						modifier = {
+							factor = 1.7
+							has_global_flag = conseil_m_taxe
+							NOT = { treasury = 50 }
+						}
+						modifier = {
+							factor = 1.8
+							has_global_flag = conseil_m_milice
+							any_neighbor_country = { tag = ZOM }
+						}
+						modifier = {
+							factor = 1.5
+							has_global_flag = conseil_m_arsenal
+							is_at_war = yes
+						}
+						set_country_flag = conseil_siege_oui
+					}
+					50 = {
+						clr_country_flag = conseil_siege_oui
+					}
+				}
+			}
+			if = {
+				limit = {
+					conseil_veto = yes
+				}
+				country_event = { id = drome_conseil.5 }
+			}
+			else_if = {
+				limit = {
+					NOT = { conseil_siege_majorite = yes }
+				}
+				country_event = { id = drome_conseil.6 }
+			}
+			else = {
+				if = {
+					limit = { has_global_flag = conseil_m_defense }
+					country_event = { id = drome_conseil.11 }
+				}
+				if = {
+					limit = { has_global_flag = conseil_m_greniers }
+					country_event = { id = drome_conseil.12 }
+				}
+				if = {
+					limit = { has_global_flag = conseil_m_taxe }
+					country_event = { id = drome_conseil.13 }
+				}
+				if = {
+					limit = { has_global_flag = conseil_m_milice }
+					country_event = { id = drome_conseil.14 }
+				}
+				if = {
+					limit = { has_global_flag = conseil_m_arsenal }
+					country_event = { id = drome_conseil.15 }
+				}
+			}
+		}
+		else = {
+			country_event = { id = drome_conseil.4 }
+		}
+		clr_global_flag = conseil_m_defense
+		clr_global_flag = conseil_m_greniers
+		clr_global_flag = conseil_m_taxe
+		clr_global_flag = conseil_m_milice
+		clr_global_flag = conseil_m_arsenal
+		clr_country_flag = conseil_proposant
+		every_country = {
+			clr_country_flag = conseil_oui
+			clr_country_flag = conseil_siege_oui
+		}
+	}
+	option = {
+		name = drome_conseil.2.a
+	}
+}
+
+country_event = {
+	id = drome_conseil.4
+	title = drome_conseil.4.t
+	desc = drome_conseil.4.d
+	picture = ANGRY_MOB_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = drome_conseil.4.a
+		add_prestige = -5
+	}
+}
+
+country_event = {
+	id = drome_conseil.5
+	title = drome_conseil.5.t
+	desc = drome_conseil.5.d
+	picture = ANGRY_MOB_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = drome_conseil.5.a
+		add_prestige = -3
+	}
+}
+
+country_event = {
+	id = drome_conseil.6
+	title = drome_conseil.6.t
+	desc = drome_conseil.6.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = drome_conseil.6.a
+		add_prestige = -3
+	}
+}
+
+country_event = {
+	id = drome_conseil.11
+	title = drome_conseil.11.t
+	desc = drome_conseil.11.d
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	immediate = {
+		every_country = {
+			limit = {
+				NOT = { tag = ZOM }
+			}
+			add_country_modifier = {
+				name = conseil_pacte_defense
+				duration = 3650
+			}
+		}
+	}
+	option = {
+		name = drome_conseil.11.a
+		add_prestige = 10
+	}
+}
+
+country_event = {
+	id = drome_conseil.12
+	title = drome_conseil.12.t
+	desc = drome_conseil.12.d
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	immediate = {
+		every_country = {
+			limit = {
+				NOT = { tag = ZOM }
+			}
+			add_country_modifier = {
+				name = conseil_greniers
+				duration = 3650
+			}
+		}
+	}
+	option = {
+		name = drome_conseil.12.a
+		add_prestige = 10
+	}
+}
+
+country_event = {
+	id = drome_conseil.13
+	title = drome_conseil.13.t
+	desc = drome_conseil.13.d
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	immediate = {
+		every_country = {
+			limit = {
+				NOT = { tag = ZOM }
+			}
+			add_country_modifier = {
+				name = conseil_taxe_route
+				duration = 3650
+			}
+		}
+	}
+	option = {
+		name = drome_conseil.13.a
+		add_prestige = 10
+	}
+}
+
+country_event = {
+	id = drome_conseil.14
+	title = drome_conseil.14.t
+	desc = drome_conseil.14.d
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	immediate = {
+		every_country = {
+			limit = {
+				NOT = { tag = ZOM }
+			}
+			add_country_modifier = {
+				name = conseil_milice
+				duration = 3650
+			}
+		}
+	}
+	option = {
+		name = drome_conseil.14.a
+		add_prestige = 10
+	}
+}
+
+country_event = {
+	id = drome_conseil.15
+	title = drome_conseil.15.t
+	desc = drome_conseil.15.d
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	immediate = {
+		every_country = {
+			limit = {
+				NOT = { tag = ZOM }
+			}
+			add_country_modifier = {
+				name = conseil_arsenal
+				duration = 3650
+			}
+			set_country_flag = deblocage_fusil
+		}
+	}
+	option = {
+		name = drome_conseil.15.a
+		add_prestige = 10
+	}
+}
+
+# Election du Conseil (tous les 5 ans) : evenement cache
+country_event = {
+	id = drome_conseil.30
+	title = drome_conseil.30.t
+	desc = drome_conseil.30.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	hidden = yes
+	trigger = {
+		NOT = { tag = ZOM }
+		NOT = { has_global_flag = ccl_mandat }
+	}
+	mean_time_to_happen = { days = 2 }
+	immediate = {
+		set_global_flag = ccl_mandat
+		every_country = {
+			clr_country_flag = ccl_permanent
+			clr_country_flag = ccl_elu
+			clr_country_flag = ccl_annonce
+			remove_country_modifier = ccl_siege_permanent
+			remove_country_modifier = ccl_siege_elu
+		}
+		ccl_choisir_un_permanent = yes
+		ccl_choisir_un_permanent = yes
+		ccl_choisir_un_permanent = yes
+		ccl_choisir_un_permanent = yes
+		ccl_choisir_un_permanent = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		ccl_choisir_un_elu = yes
+		every_country = {
+			limit = {
+				has_country_flag = ccl_permanent
+			}
+			add_country_modifier = {
+				name = ccl_siege_permanent
+				duration = -1
+			}
+			country_event = { id = drome_conseil.31 days = 1825 }
+		}
+		every_country = {
+			limit = {
+				has_country_flag = ccl_elu
+			}
+			add_country_modifier = {
+				name = ccl_siege_elu
+				duration = -1
+			}
+		}
+		# Fenetre native du Conseil : les 20 sieges sont les "electeurs"
+		every_country = {
+			limit = {
+				is_elector = yes
+			}
+			elector = no
+		}
+		every_country = {
+			limit = {
+				OR = {
+					has_country_flag = ccl_permanent
+					has_country_flag = ccl_elu
+				}
+			}
+			elector = yes
+		}
+		# President provisoire uniquement si aucun n'existe (le moteur exige un president)
+		if = {
+			limit = {
+				NOT = { any_country = { is_emperor = yes } }
+			}
+			random_country = {
+				limit = {
+					has_country_flag = ccl_permanent
+				}
+				set_emperor = THIS
+			}
+		}
+		# Election du President : campagne de 2 mois, puis depouillement
+		every_country = {
+			limit = {
+				ai = no
+				OR = {
+					has_country_flag = ccl_permanent
+					has_country_flag = ccl_elu
+				}
+			}
+			country_event = { id = drome_conseil.41 }
+		}
+		country_event = { id = drome_conseil.40 days = 60 }
+	}
+	option = {
+		name = drome_conseil.30.a
+	}
+}
+
+# Fin de mandat (programme par les membres permanents)
+country_event = {
+	id = drome_conseil.31
+	title = drome_conseil.31.t
+	desc = drome_conseil.31.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	hidden = yes
+	is_triggered_only = yes
+	immediate = {
+		if = {
+			limit = {
+				has_global_flag = ccl_mandat
+			}
+			clr_global_flag = ccl_mandat
+		}
+	}
+	option = {
+		name = drome_conseil.31.a
+	}
+}
+
+# Annonce aux joueurs qui siegent
+country_event = {
+	id = drome_conseil.32
+	title = drome_conseil.32.t
+	desc = drome_conseil.32.d
+	picture = DIPLOMACY_eventPicture
+	trigger = {
+		ai = no
+		has_country_flag = ccl_permanent
+		NOT = { has_country_flag = ccl_annonce }
+	}
+	mean_time_to_happen = { days = 1 }
+	immediate = {
+		set_country_flag = ccl_annonce
+	}
+	option = {
+		name = drome_conseil.32.a
+	}
+}
+
+country_event = {
+	id = drome_conseil.33
+	title = drome_conseil.33.t
+	desc = drome_conseil.33.d
+	picture = DIPLOMACY_eventPicture
+	trigger = {
+		ai = no
+		has_country_flag = ccl_elu
+		NOT = { has_country_flag = ccl_annonce }
+	}
+	mean_time_to_happen = { days = 1 }
+	immediate = {
+		set_country_flag = ccl_annonce
+	}
+	option = {
+		name = drome_conseil.33.a
+	}
+}
+
+# Campagne presidentielle : annonce aux joueurs qui siegent
+country_event = {
+	id = drome_conseil.41
+	title = drome_conseil.41.t
+	desc = drome_conseil.41.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = drome_conseil.41.a
+		set_country_flag = ccl_candidat
+	}
+	option = {
+		name = drome_conseil.41.b
+	}
+}
+
+# Depouillement apres 2 mois : election du President du Conseil
+country_event = {
+	id = drome_conseil.40
+	title = drome_conseil.40.t
+	desc = drome_conseil.40.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	hidden = yes
+	is_triggered_only = yes
+	immediate = {
+		if = {
+			limit = {
+				any_country = {
+					has_country_flag = ccl_candidat
+					OR = {
+						has_country_flag = ccl_permanent
+						has_country_flag = ccl_elu
+					}
+				}
+			}
+			random_country = {
+				limit = {
+					has_country_flag = ccl_candidat
+					OR = {
+						has_country_flag = ccl_permanent
+						has_country_flag = ccl_elu
+					}
+				}
+				set_emperor = THIS
+			}
+		}
+		else = {
+			random_country = {
+				limit = {
+					OR = {
+						has_country_flag = ccl_permanent
+						has_country_flag = ccl_elu
+					}
+				}
+				set_emperor = THIS
+			}
+		}
+		every_country = {
+			clr_country_flag = ccl_candidat
+		}
+	}
+	option = {
+		name = drome_conseil.40.a
+	}
+}

@@ -1,0 +1,13 @@
+owner = VSC
+controller = VSC
+add_core = VSC
+culture = cul_dieulefit
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Vesc"
+is_city = yes
+discovered_by = western

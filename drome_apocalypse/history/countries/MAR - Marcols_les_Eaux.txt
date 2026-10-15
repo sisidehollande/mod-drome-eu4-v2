@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_antraigues_sur_volane
+religion = catholic
+capital = 144
+
+2055.1.1 = {
+	monarch = {
+		name = "Michel"
+		dynasty = "de Marcols-les-Eaux"
+		birth_date = 2001.8.6
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}

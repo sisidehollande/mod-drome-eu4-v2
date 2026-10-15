@@ -1,0 +1,13 @@
+owner = STR
+controller = STR
+add_core = STR
+culture = cul_vallon_pont_d_arc
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = wool
+capital = "Saint-Remeze"
+is_city = yes
+discovered_by = western

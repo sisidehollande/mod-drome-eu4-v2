@@ -1,0 +1,13 @@
+owner = MTS
+controller = MTS
+add_core = MTS
+culture = cul_suze_la_rousse
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = wool
+capital = "Montsegur-sur-Lauzon"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = MEG
+controller = MEG
+add_core = MEG
+culture = cul_luc_en_diois
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Menglon"
+is_city = yes
+discovered_by = western

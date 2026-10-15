@@ -1,0 +1,13 @@
+owner = SEL
+controller = SEL
+add_core = SEL
+culture = cul_vans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Salelles"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = SJU
+controller = SJU
+add_core = SJU
+culture = cul_cheylard
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = cloth
+capital = "Saint-Julien-Boutieres"
+is_city = yes
+discovered_by = western

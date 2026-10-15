@@ -1,0 +1,13 @@
+owner = PUY
+controller = PUY
+add_core = PUY
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = wine
+capital = "Puygiron"
+is_city = yes
+discovered_by = western

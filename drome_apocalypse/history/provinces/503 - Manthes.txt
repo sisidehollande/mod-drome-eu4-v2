@@ -1,0 +1,13 @@
+owner = MAT
+controller = MAT
+add_core = MAT
+culture = cul_hauterives
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = cloth
+capital = "Manthes"
+is_city = yes
+discovered_by = western

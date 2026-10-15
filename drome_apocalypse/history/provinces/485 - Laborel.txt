@@ -1,0 +1,13 @@
+owner = LBO
+controller = LBO
+add_core = LBO
+culture = cul_chauvac_laux_montaux
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Laborel"
+is_city = yes
+discovered_by = western

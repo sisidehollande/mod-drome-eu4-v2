@@ -1,0 +1,13 @@
+owner = CTI
+controller = CTI
+add_core = CTI
+culture = cul_die
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Chatillon-en-Diois"
+is_city = yes
+discovered_by = western

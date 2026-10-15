@@ -1,0 +1,13 @@
+owner = SRV
+controller = SRV
+add_core = SRV
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = silk
+capital = "Saint-Gervais-sur-Roubion"
+is_city = yes
+discovered_by = western

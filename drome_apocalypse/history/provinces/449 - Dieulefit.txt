@@ -1,0 +1,13 @@
+owner = DIU
+controller = DIU
+add_core = DIU
+culture = cul_dieulefit
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = iron
+capital = "Dieulefit"
+is_city = yes
+discovered_by = western

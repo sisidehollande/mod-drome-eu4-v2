@@ -1,0 +1,178 @@
+country_decisions = {
+
+	drome_recruter_general = {
+		potential = {
+			always = yes
+		}
+		allow = {
+			treasury = 50
+			NOT = { has_country_modifier = drome_general_cooldown }
+		}
+		effect = {
+			add_treasury = -50
+			add_country_modifier = {
+				name = "drome_general_cooldown"
+				duration = 1825
+				hidden = no
+			}
+			random_list = {
+			10 = {
+				define_general = {
+					shock = 4
+					fire = 2
+					manuever = 3
+					siege = 1
+				}
+			}
+			10 = {
+				define_general = {
+					shock = 2
+					fire = 4
+					manuever = 3
+					siege = 0
+				}
+			}
+			10 = {
+				define_general = {
+					shock = 3
+					fire = 3
+					manuever = 4
+					siege = 2
+				}
+			}
+			10 = {
+				define_general = {
+					shock = 5
+					fire = 3
+					manuever = 2
+					siege = 1
+				}
+			}
+			10 = {
+				define_general = {
+					shock = 2
+					fire = 2
+					manuever = 5
+					siege = 3
+				}
+			}
+			10 = {
+				define_general = {
+					shock = 3
+					fire = 5
+					manuever = 3
+					siege = 0
+				}
+			}
+			10 = {
+				define_general = {
+					shock = 4
+					fire = 4
+					manuever = 2
+					siege = 2
+				}
+			}
+			10 = {
+				define_general = {
+					shock = 3
+					fire = 2
+					manuever = 3
+					siege = 4
+				}
+			}
+			10 = {
+				define_general = {
+					shock = 1
+					fire = 3
+					manuever = 4
+					siege = 1
+				}
+			}
+			10 = {
+				define_general = {
+					shock = 4
+					fire = 3
+					manuever = 5
+					siege = 0
+				}
+			}
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	drome_ferveur_missionnaire = {
+		potential = {
+			always = yes
+		}
+		allow = {
+			NOT = { has_ruler_modifier = drome_ruler_zeal }
+		}
+		effect = {
+			add_prestige = -15
+			add_ruler_modifier = {
+				name = "drome_ruler_zeal"
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+
+	drome_armer_fusils = {
+		potential = {
+			NOT = { has_country_flag = deblocage_fusil }
+			NOT = { tag = ZOM }
+		}
+		allow = {
+			treasury = 100
+		}
+		effect = {
+			add_treasury = -100
+			set_country_flag = deblocage_fusil
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	drome_motoriser_milices = {
+		potential = {
+			has_country_flag = deblocage_fusil
+			NOT = { has_country_flag = deblocage_vehicule }
+			NOT = { tag = ZOM }
+		}
+		allow = {
+			treasury = 400
+		}
+		effect = {
+			add_treasury = -400
+			set_country_flag = deblocage_vehicule
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	drome_forger_chars = {
+		potential = {
+			has_country_flag = deblocage_vehicule
+			NOT = { has_country_flag = deblocage_char }
+			NOT = { tag = ZOM }
+		}
+		allow = {
+			treasury = 1500
+		}
+		effect = {
+			add_treasury = -1500
+			set_country_flag = deblocage_char
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

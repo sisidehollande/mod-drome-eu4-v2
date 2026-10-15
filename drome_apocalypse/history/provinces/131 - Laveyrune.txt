@@ -1,0 +1,13 @@
+owner = LVE
+controller = LVE
+add_core = LVE
+culture = cul_saint_etienne_de_lugdares
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Laveyrune"
+is_city = yes
+discovered_by = western

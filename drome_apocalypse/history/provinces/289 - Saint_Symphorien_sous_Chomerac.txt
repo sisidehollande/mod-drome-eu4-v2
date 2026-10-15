@@ -1,0 +1,13 @@
+owner = SAY
+controller = SAY
+add_core = SAY
+culture = cul_privas
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = wine
+capital = "Saint-Symphorien-sous-Chomerac"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = MDE
+controller = MDE
+add_core = MDE
+culture = cul_saint_barthelemy_de_vals
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = grain
+capital = "Motte-de-Galaure"
+is_city = yes
+discovered_by = western

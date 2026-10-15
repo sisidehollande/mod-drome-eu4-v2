@@ -1,0 +1,13 @@
+owner = ROE
+controller = ROE
+add_core = ROE
+culture = cul_aubenas
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Rocher"
+is_city = yes
+discovered_by = western

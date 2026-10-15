@@ -1,0 +1,13 @@
+owner = BLL
+controller = BLL
+add_core = BLL
+culture = cul_lachau
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Ballons"
+is_city = yes
+discovered_by = western

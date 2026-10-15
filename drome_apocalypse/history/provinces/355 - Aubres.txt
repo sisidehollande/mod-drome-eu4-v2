@@ -1,0 +1,13 @@
+owner = AUR
+controller = AUR
+add_core = AUR
+culture = cul_nyons
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = cloth
+capital = "Aubres"
+is_city = yes
+discovered_by = western

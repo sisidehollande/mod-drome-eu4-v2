@@ -1,0 +1,13 @@
+owner = RIB
+controller = RIB
+add_core = RIB
+culture = cul_joyeuse
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = livestock
+capital = "Ribes"
+is_city = yes
+discovered_by = western

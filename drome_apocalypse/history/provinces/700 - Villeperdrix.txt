@@ -1,0 +1,13 @@
+owner = VIP
+controller = VIP
+add_core = VIP
+culture = cul_motte_chalancon
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Villeperdrix"
+is_city = yes
+discovered_by = western

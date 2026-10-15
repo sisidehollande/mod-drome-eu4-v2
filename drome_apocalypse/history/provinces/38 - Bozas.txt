@@ -1,0 +1,13 @@
+owner = BOZ
+controller = BOZ
+add_core = BOZ
+culture = cul_tournon_sur_rhone
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Bozas"
+is_city = yes
+discovered_by = western

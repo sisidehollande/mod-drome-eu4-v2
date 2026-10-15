@@ -1,0 +1,13 @@
+owner = CEL
+controller = CEL
+add_core = CEL
+culture = cul_saint_etienne_de_lugdares
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Cellier-du-Luc"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = LAV
+controller = LAV
+add_core = LAV
+culture = cul_saint_etienne_de_lugdares
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = wine
+capital = "Laval-d'Aurelle"
+is_city = yes
+discovered_by = western

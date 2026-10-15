@@ -1,0 +1,13 @@
+owner = DEV
+controller = DEV
+add_core = DEV
+culture = cul_mars
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = grain
+capital = "Devesset"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = SEO
+controller = SEO
+add_core = SEO
+culture = cul_die
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Saint-Andeol"
+is_city = yes
+discovered_by = western

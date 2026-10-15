@@ -1,0 +1,821 @@
+province;red;green;blue;x;x
+1;15;66;67;Accons;x
+2;30;132;134;Ailhon;x
+3;45;198;201;Aizac;x
+4;61;9;12;Ajoux;x
+5;76;75;79;Alba-la-Romaine;x
+6;91;141;146;Albon-d'Ardeche;x
+7;106;207;213;Alboussiere;x
+8;122;18;24;Alissas;x
+9;137;84;91;Andance;x
+10;152;150;158;Annonay;x
+11;167;216;225;Antraigues-sur-Volane;x
+12;183;27;36;Arcens;x
+13;198;93;103;Ardoix;x
+14;213;159;170;Arlebosc;x
+15;228;225;237;Arras-sur-Rhone;x
+16;244;36;48;Asperjoc;x
+17;3;102;115;Assions;x
+18;18;168;182;Astet;x
+19;33;234;249;Aubenas;x
+20;49;45;60;Aubignas;x
+21;64;111;127;Baix;x
+22;79;177;194;Balazuc;x
+23;94;244;5;Banne;x
+24;110;54;72;Barnas;x
+25;125;120;139;Beage;x
+26;140;186;206;Beauchastel;x
+27;155;253;17;Beaulieu;x
+28;171;63;84;Beaumont;x
+29;186;129;151;Beauvene;x
+30;201;195;218;Berrias-et-Casteljau;x
+31;217;6;29;Berzeme;x
+32;232;72;96;Bessas;x
+33;247;138;163;Bidon;x
+34;6;204;230;Boffres;x
+35;22;15;41;Bogy;x
+36;37;81;108;Boree;x
+37;52;147;175;Borne;x
+38;67;213;242;Bozas;x
+39;83;24;53;Boucieu-le-Roi;x
+40;98;90;120;Boulieu-les-Annonay;x
+41;113;156;187;Bourg-Saint-Andeol;x
+42;128;222;254;Brossainc;x
+43;144;33;65;Burzet;x
+44;159;99;132;Cellier-du-Luc;x
+45;174;165;199;Chalencon;x
+46;189;232;10;Chambon;x
+47;205;42;77;Chambonas;x
+48;220;108;144;Champagne;x
+49;235;174;211;Champis;x
+50;250;241;22;Chandolas;x
+51;10;51;89;Chaneac;x
+52;25;117;156;Charmes-sur-Rhone;x
+53;40;183;223;Charnas;x
+54;55;250;34;Chassiers;x
+55;71;60;101;Chateaubourg;x
+56;86;126;168;Chateauneuf-de-Vernoux;x
+57;101;192;235;Chauzon;x
+58;117;3;46;Chazeaux;x
+59;132;69;113;Cheminas;x
+60;147;135;180;Cheylard;x
+61;162;201;247;Chirols;x
+62;178;12;58;Chomerac;x
+63;193;78;125;Colombier-le-Cardinal;x
+64;208;144;192;Colombier-le-Jeune;x
+65;223;211;3;Colombier-le-Vieux;x
+66;239;21;70;Cornas;x
+67;254;87;137;Coucouron;x
+68;13;153;204;Coux;x
+69;28;220;15;Crestet;x
+70;44;30;82;Creysseilles;x
+71;59;96;149;Cros-de-Georand;x
+72;74;162;216;Cruas;x
+73;89;229;27;Darbres;x
+74;105;39;94;Davezieux;x
+75;120;105;161;Desaignes;x
+76;135;171;228;Devesset;x
+77;150;238;39;Dompnac;x
+78;166;48;106;Dornas;x
+79;181;114;173;Duniere-sur-Eyrieux;x
+80;196;180;240;Eclassan;x
+81;211;247;51;Empurany;x
+82;227;57;118;Etables;x
+83;242;123;185;Fabras;x
+84;1;189;252;Faugeres;x
+85;17;0;63;Felines;x
+86;32;66;130;Flaviac;x
+87;47;132;197;Fons;x
+88;62;199;8;Freyssenet;x
+89;78;9;75;Genestelle;x
+90;93;75;142;Gilhac-et-Bruzac;x
+91;108;141;209;Gilhoc-sur-Ormeze;x
+92;123;208;20;Gluiras;x
+93;139;18;87;Glun;x
+94;154;84;154;Gourdon;x
+95;169;150;221;Gras;x
+96;184;217;32;Gravieres;x
+97;200;27;99;Grospierres;x
+98;215;93;166;Guilherand-Granges;x
+99;230;159;233;Intres;x
+100;245;226;44;Issamoulenc;x
+101;5;36;111;Issanlas;x
+102;20;102;178;Issarles;x
+103;35;168;245;Jaujac;x
+104;50;235;56;Jaunac;x
+105;66;45;123;Joannas;x
+106;81;111;190;Joyeuse;x
+107;96;178;1;Juvinas;x
+108;111;244;68;Labastide-sur-Besorgues;x
+109;127;54;135;Labastide-de-Virac;x
+110;142;120;202;Labatie-d'Andaure;x
+111;157;187;13;Labeaume;x
+112;172;253;80;Labegude;x
+113;188;63;147;Lablachere;x
+114;203;129;214;Laboule;x
+115;218;196;25;Lac-d'Issarles;x
+116;234;6;92;Lachamp-Raphael;x
+117;249;72;159;Lachapelle-Graillouse;x
+118;8;138;226;Lachapelle-sous-Aubenas;x
+119;23;205;37;Lachapelle-sous-Chaneac;x
+120;39;15;104;Lafarre;x
+121;54;81;171;Lagorce;x
+122;69;147;238;Lalevade-d'Ardeche;x
+123;84;214;49;Lalouvesc;x
+124;100;24;116;Lamastre;x
+125;115;90;183;Lanarce;x
+126;130;156;250;Lanas;x
+127;145;223;61;Largentiere;x
+128;161;33;128;Larnas;x
+129;176;99;195;Laurac-en-Vivarais;x
+130;191;166;6;Laval-d'Aurelle;x
+131;206;232;73;Laveyrune;x
+132;222;42;140;Lavillatte;x
+133;237;108;207;Lavilledieu;x
+134;252;175;18;Laviolle;x
+135;11;241;85;Lemps;x
+136;27;51;152;Lentilleres;x
+137;42;117;219;Lesperon;x
+138;57;184;30;Limony;x
+139;72;250;97;Loubaresse;x
+140;88;60;164;Lussas;x
+141;103;126;231;Lyas;x
+142;118;193;42;Malarce-sur-la-Thines;x
+143;134;3;109;Malbosc;x
+144;149;69;176;Marcols-les-Eaux;x
+145;164;135;243;Mariac;x
+146;179;202;54;Mars;x
+147;195;12;121;Mauves;x
+148;210;78;188;Mayres;x
+149;225;144;255;Mazan-l'Abbaye;x
+150;240;211;66;Mercuer;x
+151;0;21;133;Meyras;x
+152;15;87;200;Meysse;x
+153;30;154;11;Mezilhac;x
+154;45;220;78;Mirabel;x
+155;61;30;145;Monestier;x
+156;76;96;212;Montpezat-sous-Bauzon;x
+157;91;163;23;Montreal;x
+158;106;229;90;Montselgues;x
+159;122;39;157;Nonieres;x
+160;137;105;224;Nozieres;x
+161;152;172;35;Ollieres-sur-Eyrieux;x
+162;167;238;102;Orgnac-l'Aven;x
+163;183;48;169;Ozon;x
+164;198;114;236;Pailhares;x
+165;213;181;47;Payzac;x
+166;228;247;114;Peaugres;x
+167;244;57;181;Pereyres;x
+168;3;123;248;Peyraud;x
+169;18;190;59;Plagnal;x
+170;34;0;126;Planzolles;x
+171;49;66;193;Plats;x
+172;64;133;4;Pont-de-Labeaume;x
+173;79;199;71;Pourcheres;x
+174;95;9;138;Pouzin;x
+175;110;75;205;Prades;x
+176;125;142;16;Pradons;x
+177;140;208;83;Pranles;x
+178;156;18;150;Preaux;x
+179;171;84;217;Privas;x
+180;186;151;28;Prunet;x
+181;201;217;95;Quintenas;x
+182;217;27;162;Ribes;x
+183;232;93;229;Rochecolombe;x
+184;247;160;40;Rochemaure;x
+185;6;226;107;Rochepaule;x
+186;22;36;174;Rocher;x
+187;37;102;241;Rochessauve;x
+188;52;169;52;Rochette;x
+189;67;235;119;Rocles;x
+190;83;45;186;Roiffieux;x
+191;98;111;253;Rompon;x
+192;113;178;64;Rosieres;x
+193;128;244;131;Roux;x
+194;144;54;198;Ruoms;x
+195;159;121;9;Sablieres;x
+196;174;187;76;Sagnes-et-Goudoulet;x
+197;189;253;143;Saint-Agreve;x
+198;205;63;210;Saint-Alban-d'Ay;x
+199;220;130;21;Saint-Alban-en-Montagne;x
+200;235;196;88;Saint-Alban-Auriolles;x
+201;251;6;155;Saint-Andeol-de-Berg;x
+202;10;72;222;Saint-Andeol-de-Fourchades;x
+203;25;139;33;Saint-Andeol-de-Vals;x
+204;40;205;100;Saint-Andre-de-Cruzieres;x
+205;56;15;167;Saint-Andre-en-Vivarais;x
+206;71;81;234;Saint-Andre-Lachamp;x
+207;86;148;45;Saint-Apollinaire-de-Rias;x
+208;101;214;112;Saint-Barthelemy-le-Meil;x
+209;117;24;179;Saint-Barthelemy-Grozon;x
+210;132;90;246;Saint-Barthelemy-le-Plain;x
+211;147;157;57;Saint-Basile;x
+212;162;223;124;Saint-Bauzile;x
+213;178;33;191;Saint-Christol;x
+214;193;100;2;Saint-Cierge-la-Serre;x
+215;208;166;69;Saint-Cierge-sous-le-Cheylard;x
+216;223;232;136;Saint-Cirgues-de-Prades;x
+217;239;42;203;Saint-Cirgues-en-Montagne;x
+218;254;109;14;Saint-Clair;x
+219;13;175;81;Saint-Clement;x
+220;28;241;148;Saint-Cyr;x
+221;44;51;215;Saint-Desirat;x
+222;59;118;26;Saint-Didier-sous-Aubenas;x
+223;74;184;93;Saint-Etienne-de-Boulogne;x
+224;89;250;160;Saint-Etienne-de-Fontbellon;x
+225;105;60;227;Saint-Etienne-de-Lugdares;x
+226;120;127;38;Saint-Etienne-de-Serre;x
+227;135;193;105;Saint-Etienne-de-Valoux;x
+228;151;3;172;Sainte-Eulalie;x
+229;166;69;239;Saint-Felicien;x
+230;181;136;50;Saint-Fortunat-sur-Eyrieux;x
+231;196;202;117;Saint-Genest-de-Beauzon;x
+232;212;12;184;Saint-Genest-Lachamp;x
+233;227;78;251;Saint-Georges-les-Bains;x
+234;242;145;62;Saint-Germain;x
+235;1;211;129;Saint-Gineis-en-Coiron;x
+236;17;21;196;Saint-Jacques-d'Atticieux;x
+237;32;88;7;Saint-Jean-Chambre;x
+238;47;154;74;Saint-Jean-de-Muzols;x
+239;62;220;141;Saint-Jean-le-Centenier;x
+240;78;30;208;Saint-Jean-Roure;x
+241;93;97;19;Saint-Jeure-d'Andaure;x
+242;108;163;86;Saint-Jeure-d'Ay;x
+243;123;229;153;Saint-Joseph-des-Bancs;x
+244;139;39;220;Saint-Julien-Boutieres;x
+245;154;106;31;Saint-Julien-du-Gua;x
+246;169;172;98;Saint-Julien-du-Serre;x
+247;184;238;165;Saint-Julien-en-Saint-Alban;x
+248;200;48;232;Saint-Julien-Labrousse;x
+249;215;115;43;Saint-Julien-le-Roux;x
+250;230;181;110;Saint-Julien-Vocance;x
+251;245;247;177;Saint-Just-d'Ardeche;x
+252;5;57;244;Saint-Lager-Bressac;x
+253;20;124;55;Saint-Laurent-du-Pape;x
+254;35;190;122;Saint-Laurent-les-Bains;x
+255;51;0;189;Saint-Laurent-sous-Coiron;x
+256;66;67;0;Saint-Marcel-d'Ardeche;x
+257;81;133;67;Saint-Marcel-les-Annonay;x
+258;96;199;134;Sainte-Marguerite-Lafigere;x
+259;112;9;201;Saint-Martial;x
+260;127;76;12;Saint-Martin-d'Ardeche;x
+261;142;142;79;Saint-Martin-de-Valamas;x
+262;157;208;146;Saint-Martin-sur-Lavezon;x
+263;173;18;213;Saint-Maurice-d'Ardeche;x
+264;188;85;24;Saint-Maurice-d'Ibie;x
+265;203;151;91;Saint-Maurice-en-Chalencon;x
+266;218;217;158;Saint-Melany;x
+267;234;27;225;Saint-Michel-d'Aurance;x
+268;249;94;36;Saint-Michel-de-Boulogne;x
+269;8;160;103;Saint-Michel-de-Chabrillanoux;x
+270;23;226;170;Saint-Montan;x
+271;39;36;237;Saint-Paul-le-Jeune;x
+272;54;103;48;Saint-Peray;x
+273;69;169;115;Saint-Pierre-de-Colombier;x
+274;84;235;182;Saint-Pierre-la-Roche;x
+275;100;45;249;Saint-Pierre-Saint-Jean;x
+276;115;112;60;Saint-Pierre-sur-Doux;x
+277;130;178;127;Saint-Pierreville;x
+278;145;244;194;Saint-Pons;x
+279;161;55;5;Saint-Priest;x
+280;176;121;72;Saint-Privat;x
+281;191;187;139;Saint-Prix;x
+282;206;253;206;Saint-Remeze;x
+283;222;64;17;Saint-Romain-d'Ay;x
+284;237;130;84;Saint-Romain-de-Lerps;x
+285;252;196;151;Saint-Sauveur-de-Cruzieres;x
+286;12;6;218;Saint-Sauveur-de-Montagut;x
+287;27;73;29;Saint-Sernin;x
+288;42;139;96;Saint-Sylvestre;x
+289;57;205;163;Saint-Symphorien-sous-Chomerac;x
+290;73;15;230;Saint-Symphorien-de-Mahun;x
+291;88;82;41;Saint-Thome;x
+292;103;148;108;Saint-Victor;x
+293;118;214;175;Saint-Vincent-de-Barres;x
+294;134;24;242;Saint-Vincent-de-Durfort;x
+295;149;91;53;Salavas;x
+296;164;157;120;Salelles;x
+297;179;223;187;Sampzon;x
+298;195;33;254;Sanilhac;x
+299;210;100;65;Sarras;x
+300;225;166;132;Satillieu;x
+301;240;232;199;Savas;x
+302;0;43;10;Sceautres;x
+303;15;109;77;Secheras;x
+304;30;175;144;Serrieres;x
+305;45;241;211;Silhac;x
+306;61;52;22;Souche;x
+307;76;118;89;Soyons;x
+308;91;184;156;Talencieux;x
+309;106;250;223;Tauriers;x
+310;122;61;34;Teil;x
+311;137;127;101;Thorrenc;x
+312;152;193;168;Thueyts;x
+313;168;3;235;Toulaud;x
+314;183;70;46;Tournon-sur-Rhone;x
+315;198;136;113;Ucel;x
+316;213;202;180;Usclades-et-Rieutord;x
+317;229;12;247;Uzer;x
+318;244;79;58;Vagnas;x
+319;3;145;125;Valgorge;x
+320;18;211;192;Vallon-Pont-d'Arc;x
+321;34;22;3;Vals-les-Bains;x
+322;49;88;70;Valvigneres;x
+323;64;154;137;Vanosc;x
+324;79;220;204;Vans;x
+325;95;31;15;Vaudevant;x
+326;110;97;82;Vernon;x
+327;125;163;149;Vernosc-les-Annonay;x
+328;140;229;216;Vernoux-en-Vivarais;x
+329;156;40;27;Vesseaux;x
+330;171;106;94;Veyras;x
+331;186;172;161;Villeneuve-de-Berg;x
+332;201;238;228;Villevocance;x
+333;217;49;39;Vinezac;x
+334;232;115;106;Vinzieux;x
+335;247;181;173;Vion;x
+336;6;247;240;Viviers;x
+337;22;58;51;Vocance;x
+338;37;124;118;Vogue;x
+339;52;190;185;Voulte-sur-Rhone;x
+340;68;0;252;Solaure en Diois;x
+341;83;67;63;Albon;x
+342;98;133;130;Aleyrac;x
+343;113;199;197;Alixan;x
+344;129;10;8;Allan;x
+345;144;76;75;Allex;x
+346;159;142;142;Ambonil;x
+347;174;208;209;Ancone;x
+348;190;19;20;Andancette;x
+349;205;85;87;Anneyron;x
+350;220;151;154;Aouste-sur-Sye;x
+351;235;217;221;Arnayon;x
+352;251;28;32;Arpavon;x
+353;10;94;99;Arthemonay;x
+354;25;160;166;Aubenasson;x
+355;40;226;233;Aubres;x
+356;56;37;44;Aucelon;x
+357;71;103;111;Aulan;x
+358;86;169;178;Aurel;x
+359;101;235;245;Repara-Auriples;x
+360;117;46;56;Autichamp;x
+361;132;112;123;Ballons;x
+362;147;178;190;Barbieres;x
+363;162;245;1;Barcelonne;x
+364;178;55;68;Barnave;x
+365;193;121;135;Barret-de-Lioure;x
+366;208;187;202;Barsac;x
+367;223;254;13;Bathernay;x
+368;239;64;80;Batie-des-Fonds;x
+369;254;130;147;Batie-Rolland;x
+370;13;196;214;Baume-Cornillane;x
+371;29;7;25;Baume-de-Transit;x
+372;44;73;92;Baume-d'Hostun;x
+373;59;139;159;Beaufort-sur-Gervanne;x
+374;74;205;226;Beaumont-en-Diois;x
+375;90;16;37;Beaumont-les-Valence;x
+376;105;82;104;Beaumont-Monteux;x
+377;120;148;171;Beauregard-Baret;x
+378;135;214;238;Beaurieres;x
+379;151;25;49;Beausemblant;x
+380;166;91;116;Beauvallon;x
+381;181;157;183;Beauvoisin;x
+382;196;223;250;Begude-de-Mazenc;x
+383;212;34;61;Bellecombe-Tarendol;x
+384;227;100;128;Bellegarde-en-Diois;x
+385;242;166;195;Benivay-Ollon;x
+386;1;233;6;Besayes;x
+387;17;43;73;Besignan;x
+388;32;109;140;Bezaudun-sur-Bine;x
+389;47;175;207;Bonlieu-sur-Roubion;x
+390;62;242;18;Bouchet;x
+391;78;52;85;Boulc;x
+392;93;118;152;Bourdeaux;x
+393;108;184;219;Bourg-de-Peage;x
+394;123;251;30;Bourg-les-Valence;x
+395;139;61;97;Bouvante;x
+396;154;127;164;Bouvieres;x
+397;169;193;231;Bren;x
+398;185;4;42;Brette;x
+399;200;70;109;Buis-les-Baronnies;x
+400;215;136;176;Chabeuil;x
+401;230;202;243;Chabrillan;x
+402;246;13;54;Chaffal;x
+403;5;79;121;Chalancon;x
+404;20;145;188;Chalon;x
+405;35;211;255;Chamaloc;x
+406;51;22;66;Chamaret;x
+407;66;88;133;Chanos-Curson;x
+408;81;154;200;Chantemerle-les-Bles;x
+409;96;221;11;Chantemerle-les-Grignan;x
+410;112;31;78;Chapelle-en-Vercors;x
+411;127;97;145;Charce;x
+412;142;163;212;Charens;x
+413;157;230;23;Charmes-sur-l'Herbasse;x
+414;173;40;90;Charols;x
+415;188;106;157;Charpey;x
+416;203;172;224;Chastel-Arnaud;x
+417;218;239;35;Chateaudouble;x
+418;234;49;102;Chateauneuf-de-Bordette;x
+419;249;115;169;Chateauneuf-de-Galaure;x
+420;8;181;236;Chateauneuf-sur-Isere;x
+421;23;248;47;Chateauneuf-du-Rhone;x
+422;39;58;114;Chatillon-en-Diois;x
+423;54;124;181;Chatillon-Saint-Jean;x
+424;69;190;248;Chatuzange-le-Goubet;x
+425;85;1;59;Chaudebonne;x
+426;100;67;126;Chaudiere;x
+427;115;133;193;Chauvac-Laux-Montaux;x
+428;130;200;4;Chavannes;x
+429;146;10;71;Clansayes;x
+430;161;76;138;Claveyson;x
+431;176;142;205;Cleon-d'Andran;x
+432;191;209;16;Clerieux;x
+433;207;19;83;Cliousclat;x
+434;222;85;150;Cobonne;x
+435;237;151;217;Colonzelle;x
+436;252;218;28;Combovin;x
+437;12;28;95;Comps;x
+438;27;94;162;Condillac;x
+439;42;160;229;Condorcet;x
+440;57;227;40;Cornillac;x
+441;73;37;107;Cornillon-sur-l'Oule;x
+442;88;103;174;Coucourde;x
+443;103;169;241;Crepol;x
+444;118;236;52;Crest;x
+445;134;46;119;Crozes-Hermitage;x
+446;149;112;186;Crupies;x
+447;164;178;253;Curnier;x
+448;179;245;64;Die;x
+449;195;55;131;Dieulefit;x
+450;210;121;198;Divajeu;x
+451;225;188;9;Donzere;x
+452;240;254;76;Echevis;x
+453;0;64;143;Epinouze;x
+454;15;130;210;Erome;x
+455;30;197;21;Espeluche;x
+456;46;7;88;Espenel;x
+457;61;73;155;Establet;x
+458;76;139;222;Etoile-sur-Rhone;x
+459;91;206;33;Eurre;x
+460;107;16;100;Eygalayes;x
+461;122;82;167;Eygaliers;x
+462;137;148;234;Eygluy-Escoulin;x
+463;152;215;45;Eymeux;x
+464;168;25;112;Eyroles;x
+465;183;91;179;Eyzahut;x
+466;198;157;246;Fay-le-Clos;x
+467;213;224;57;Felines-sur-Rimandoule;x
+468;229;34;124;Ferrassieres;x
+469;244;100;191;Val-Maravel;x
+470;3;167;2;Francillon-sur-Roubion;x
+471;18;233;69;Garde-Adhemar;x
+472;34;43;136;Genissieux;x
+473;49;109;203;Geyssans;x
+474;64;176;14;Gigors-et-Lozeron;x
+475;79;242;81;Glandage;x
+476;95;52;148;Grand-Serre;x
+477;110;118;215;Grane;x
+478;125;185;26;Granges-Gontardes;x
+479;140;251;93;Grignan;x
+480;156;61;160;Gumiane;x
+481;171;127;227;Hauterives;x
+482;186;194;38;Hostun;x
+483;202;4;105;Izon-la-Bruisse;x
+484;217;70;172;Joncheres;x
+485;232;136;239;Laborel;x
+486;247;203;50;Lachau;x
+487;7;13;117;Lapeyrouse-Mornay;x
+488;22;79;184;Larnage;x
+489;37;145;251;Laupie;x
+490;52;212;62;Laval-d'Aix;x
+491;68;22;129;Laveyron;x
+492;83;88;196;Lemps;x
+493;98;155;7;Lens-Lestang;x
+494;113;221;74;Leoncel;x
+495;129;31;141;Lesches-en-Diois;x
+496;144;97;208;Livron-sur-Drome;x
+497;159;164;19;Loriol-sur-Drome;x
+498;174;230;86;Luc-en-Diois;x
+499;190;40;153;Lus-la-Croix-Haute;x
+500;205;106;220;Malataverne;x
+501;220;173;31;Malissard;x
+502;235;239;98;Manas;x
+503;251;49;165;Manthes;x
+504;10;115;232;Marches;x
+505;25;182;43;Marges;x
+506;40;248;110;Marignac-en-Diois;x
+507;56;58;177;Marsanne;x
+508;71;124;244;Marsaz;x
+509;86;191;55;Menglon;x
+510;102;1;122;Mercurol-Veaunes;x
+511;117;67;189;Merindol-les-Oliviers;x
+512;132;134;0;Mevouillon;x
+513;147;200;67;Mirabel-aux-Baronnies;x
+514;163;10;134;Mirabel-et-Blacons;x
+515;178;76;201;Miribel;x
+516;193;143;12;Mirmande;x
+517;208;209;79;Miscon;x
+518;224;19;146;Mollans-sur-Ouveze;x
+519;239;85;213;Montauban-sur-l'Ouveze;x
+520;254;152;24;Montaulieu;x
+521;13;218;91;Montboucher-sur-Jabron;x
+522;29;28;158;Montbrison-sur-Lez;x
+523;44;94;225;Montbrun-les-Bains;x
+524;59;161;36;Montchenu;x
+525;74;227;103;Montclar-sur-Gervanne;x
+526;90;37;170;Monteleger;x
+527;105;103;237;Montelier;x
+528;120;170;48;Montelimar;x
+529;135;236;115;Montferrand-la-Fare;x
+530;151;46;182;Montfroc;x
+531;166;112;249;Montguers;x
+532;181;179;60;Montjoux;x
+533;196;245;127;Montjoyer;x
+534;212;55;194;Montlaur-en-Diois;x
+535;227;122;5;Montmaur-en-Diois;x
+536;242;188;72;Montmeyran;x
+537;1;254;139;Montmiral;x
+538;17;64;206;Montoison;x
+539;32;131;17;Montreal-les-Sources;x
+540;47;197;84;Montrigaud;x
+541;63;7;151;Montsegur-sur-Lauzon;x
+542;78;73;218;Montvendre;x
+543;93;140;29;Moras-en-Valloire;x
+544;108;206;96;Mornans;x
+545;124;16;163;Motte-Chalancon;x
+546;139;82;230;Motte-de-Galaure;x
+547;154;149;41;Motte-Fanjas;x
+548;169;215;108;Mours-Saint-Eusebe;x
+549;185;25;175;Mureils;x
+550;200;91;242;Nyons;x
+551;215;158;53;Ombleze;x
+552;230;224;120;Orcinas;x
+553;246;34;187;Oriol-en-Royans;x
+554;5;100;254;Ourches;x
+555;20;167;65;Parnans;x
+556;35;233;132;Pegue;x
+557;51;43;199;Pelonne;x
+558;66;110;10;Pennes-le-Sec;x
+559;81;176;77;Penne-sur-l'Ouveze;x
+560;96;242;144;Peyrins;x
+561;112;52;211;Peyrus;x
+562;127;119;22;Piegon;x
+563;142;185;89;Piegros-la-Clastre;x
+564;157;251;156;Pierrelatte;x
+565;173;61;223;Pierrelongue;x
+566;188;128;34;Pilles;x
+567;203;194;101;Plaisians;x
+568;219;4;168;Plan-de-Baix;x
+569;234;70;235;Poet-Celard;x
+570;249;137;46;Poet-en-Percip;x
+571;8;203;113;Poet-Laval;x
+572;24;13;180;Poet-Sigillat;x
+573;39;79;247;Pommerol;x
+574;54;146;58;Ponet-et-Saint-Auban;x
+575;69;212;125;Ponsas;x
+576;85;22;192;Pontaix;x
+577;100;89;3;Pont-de-Barret;x
+578;115;155;70;Pont-de-l'Isere;x
+579;130;221;137;Portes-en-Valdaine;x
+580;146;31;204;Portes-les-Valence;x
+581;161;98;15;Poyols;x
+582;176;164;82;Pradelle;x
+583;191;230;149;Pres;x
+584;207;40;216;Propiac;x
+585;222;107;27;Puygiron;x
+586;237;173;94;Puy-Saint-Martin;x
+587;252;239;161;Ratieres;x
+588;12;49;228;Reauville;x
+589;27;116;39;Recoubeau-Jansac;x
+590;42;182;106;Reilhanette;x
+591;57;248;173;Remuzat;x
+592;73;58;240;Rimon-et-Savel;x
+593;88;125;51;Rioms;x
+594;103;191;118;Rochebaudin;x
+595;119;1;185;Rochebrune;x
+596;134;67;252;Rochechinard;x
+597;149;134;63;Roche-de-Glun;x
+598;164;200;130;Rochefort-en-Valdaine;x
+599;180;10;197;Rochefort-Samson;x
+600;195;77;8;Rochefourchat;x
+601;210;143;75;Rochegude;x
+602;225;209;142;Roche-Saint-Secret-Beconne;x
+603;241;19;209;Roche-sur-Grane;x
+604;0;86;20;Roche-sur-le-Buis;x
+605;15;152;87;Rochette-du-Buis;x
+606;30;218;154;Romans-sur-Isere;x
+607;46;28;221;Romeyer;x
+608;61;95;32;Rottier;x
+609;76;161;99;Roussas;x
+610;91;227;166;Rousset-les-Vignes;x
+611;107;37;233;Roussieux;x
+612;122;104;44;Roynac;x
+613;137;170;111;Sahune;x
+614;152;236;178;Saillans;x
+615;168;46;245;Saint-Agnan-en-Vercors;x
+616;183;113;56;Saint-Andeol;x
+617;198;179;123;Saint-Auban-sur-l'Ouveze;x
+618;213;245;190;Saint-Avit;x
+619;229;56;1;Saint-Bardoux;x
+620;244;122;68;Saint-Barthelemy-de-Vals;x
+621;3;188;135;Saint-Benoit-en-Diois;x
+622;18;254;202;Saint-Bonnet-de-Valclerieux;x
+623;34;65;13;Saint-Christophe-et-le-Laris;x
+624;49;131;80;Sainte-Croix;x
+625;64;197;147;Saint-Dizier-en-Diois;x
+626;80;7;214;Saint-Donat-sur-l'Herbasse;x
+627;95;74;25;Sainte-Eulalie-en-Royans;x
+628;110;140;92;Sainte-Euphemie-sur-Ouveze;x
+629;125;206;159;Saint-Ferreol-Trente-Pas;x
+630;141;16;226;Saint-Gervais-sur-Roubion;x
+631;156;83;37;Sainte-Jalle;x
+632;171;149;104;Saint-Jean-en-Royans;x
+633;186;215;171;Saint-Julien-en-Quint;x
+634;202;25;238;Saint-Julien-en-Vercors;x
+635;217;92;49;Saint-Laurent-d'Onay;x
+636;232;158;116;Saint-Laurent-en-Royans;x
+637;247;224;183;Saint-Marcel-les-Sauzet;x
+638;7;34;250;Saint-Marcel-les-Valence;x
+639;22;101;61;Saint-Martin-d'Aout;x
+640;37;167;128;Saint-Martin-en-Vercors;x
+641;52;233;195;Saint-Martin-le-Colonel;x
+642;68;44;6;Saint-Maurice-sur-Eygues;x
+643;83;110;73;Saint-May;x
+644;98;176;140;Saint-Michel-sur-Savasse;x
+645;113;242;207;Saint-Nazaire-en-Royans;x
+646;129;53;18;Saint-Nazaire-le-Desert;x
+647;144;119;85;Saint-Pantaleon-les-Vignes;x
+648;159;185;152;Saint-Paul-les-Romans;x
+649;174;251;219;Saint-Paul-Trois-Chateaux;x
+650;190;62;30;Saint-Rambert-d'Albon;x
+651;205;128;97;Saint-Restitut;x
+652;220;194;164;Saint-Roman;x
+653;236;4;231;Saint-Sauveur-en-Diois;x
+654;251;71;42;Saint-Sauveur-Gouvernet;x
+655;10;137;109;Saint-Sorlin-en-Valloire;x
+656;25;203;176;Saint-Thomas-en-Royans;x
+657;41;13;243;Saint-Uze;x
+658;56;80;54;Saint-Vallier;x
+659;71;146;121;Salettes;x
+660;86;212;188;Salles-sous-Bois;x
+661;102;22;255;Saou;x
+662;117;89;66;Saulce-sur-Rhone;x
+663;132;155;133;Sauzet;x
+664;147;221;200;Savasse;x
+665;163;32;11;Sederon;x
+666;178;98;78;Serves-sur-Rhone;x
+667;193;164;145;Solerieux;x
+668;208;230;212;Souspierre;x
+669;224;41;23;Soyans;x
+670;239;107;90;Suze-la-Rousse;x
+671;254;173;157;Suze;x
+672;13;239;224;Tain-l'Hermitage;x
+673;29;50;35;Taulignan;x
+674;44;116;102;Tersanne;x
+675;59;182;169;Teyssieres;x
+676;74;248;236;Tonils;x
+677;90;59;47;Touche;x
+678;105;125;114;Tourrettes;x
+679;120;191;181;Treschenu-Creyers;x
+680;136;1;248;Triors;x
+681;151;68;59;Truinas;x
+682;166;134;126;Tulette;x
+683;181;200;193;Upie;x
+684;197;11;4;Vacheres-en-Quint;x
+685;212;77;71;Valaurie;x
+686;227;143;138;Valdrome;x
+687;242;209;205;Valence;x
+688;2;20;16;Valouse;x
+689;17;86;83;Vassieux-en-Vercors;x
+690;32;152;150;Vaunaveys-la-Rochette;x
+691;47;218;217;Venterol;x
+692;63;29;28;Vercheny;x
+693;78;95;95;Verclause;x
+694;93;161;162;Vercoiran;x
+695;108;227;229;Veronne;x
+696;124;38;40;Vers-sur-Meouge;x
+697;139;104;107;Vesc;x
+698;154;170;174;Villebois-les-Pins;x
+699;169;236;241;Villefranche-le-Chateau;x
+700;185;47;52;Villeperdrix;x
+701;200;113;119;Vinsobres;x
+702;215;179;186;Volvent;x
+703;230;245;253;Granges-les-Beaumont;x
+704;246;56;64;Gervans;x
+705;5;122;131;Jaillans;x
+706;20;188;198;Saint-Vincent-la-Commanderie;x
+708;51;65;76;Brume 708;x
+709;66;131;143;Brume 709;x
+710;81;197;210;Brume 710;x
+711;97;8;21;Brume 711;x
+712;112;74;88;Brume 712;x
+713;127;140;155;Brume 713;x
+714;142;206;222;Brume 714;x
+715;158;17;33;Brume 715;x
+716;173;83;100;Brume 716;x
+717;188;149;167;Brume 717;x
+718;203;215;234;Brume 718;x
+719;219;26;45;Brume 719;x
+720;234;92;112;Brume 720;x
+721;249;158;179;Brume 721;x
+722;8;224;246;Brume 722;x
+723;24;35;57;Brume 723;x
+724;39;101;124;Brume 724;x
+725;54;167;191;Brume 725;x
+726;69;234;2;Brume 726;x
+727;85;44;69;Brume 727;x
+728;100;110;136;Brume 728;x
+729;115;176;203;Brume 729;x
+730;130;243;14;Brume 730;x
+731;146;53;81;Brume 731;x
+732;161;119;148;Brume 732;x
+733;176;185;215;Brume 733;x
+734;191;252;26;Brume 734;x
+735;207;62;93;Brume 735;x
+736;222;128;160;Brume 736;x
+737;237;194;227;Brume 737;x
+738;253;5;38;Brume 738;x
+739;12;71;105;Brume 739;x
+740;27;137;172;Brume 740;x
+741;42;203;239;Brume 741;x
+742;58;14;50;Brume 742;x
+743;73;80;117;Brume 743;x
+744;88;146;184;Brume 744;x
+745;103;212;251;Brume 745;x
+746;119;23;62;Brume 746;x
+747;134;89;129;Brume 747;x
+748;149;155;196;Brume 748;x
+749;164;222;7;Brume 749;x
+750;180;32;74;Brume 750;x
+751;195;98;141;Brume 751;x
+752;210;164;208;Brume 752;x
+753;225;231;19;Brume 753;x
+754;241;41;86;Brume 754;x
+755;0;107;153;Brume 755;x
+756;15;173;220;Brume 756;x
+757;30;240;31;Brume 757;x
+758;46;50;98;Brume 758;x
+759;61;116;165;Brume 759;x
+760;76;182;232;Brume 760;x
+761;91;249;43;Brume 761;x
+762;107;59;110;Brume 762;x
+763;122;125;177;Brume 763;x
+764;137;191;244;Brume 764;x
+765;153;2;55;Brume 765;x
+766;168;68;122;Brume 766;x
+767;183;134;189;Brume 767;x
+768;198;201;0;Brume 768;x
+769;214;11;67;Brume 769;x
+770;229;77;134;Brume 770;x
+771;244;143;201;Brume 771;x
+772;3;210;12;Brume 772;x
+773;19;20;79;Brume 773;x
+774;34;86;146;Brume 774;x
+775;49;152;213;Brume 775;x
+776;64;219;24;Brume 776;x
+777;80;29;91;Brume 777;x
+778;95;95;158;Brume 778;x
+779;110;161;225;Brume 779;x
+780;125;228;36;Brume 780;x
+781;141;38;103;Brume 781;x
+782;156;104;170;Brume 782;x
+783;171;170;237;Brume 783;x
+784;186;237;48;Brume 784;x
+785;202;47;115;Brume 785;x
+786;217;113;182;Brume 786;x
+787;232;179;249;Brume 787;x
+788;247;246;60;Brume 788;x
+789;7;56;127;Brume 789;x
+790;22;122;194;Brume 790;x
+791;37;189;5;Brume 791;x
+792;52;255;72;Brume 792;x
+793;68;65;139;Brume 793;x
+794;83;131;206;Brume 794;x
+795;98;198;17;Brume 795;x
+796;114;8;84;Brume 796;x
+797;129;74;151;Brume 797;x
+798;144;140;218;Brume 798;x
+799;159;207;29;Brume 799;x
+800;175;17;96;Brume 800;x
+801;190;83;163;Brume 801;x
+802;205;149;230;Brume 802;x
+803;220;216;41;Brume 803;x
+804;236;26;108;Brume 804;x
+805;251;92;175;Brume 805;x
+806;10;158;242;Brume 806;x
+807;25;225;53;Brume 807;x
+808;41;35;120;Brume 808;x
+809;56;101;187;Brume 809;x
+707;35;255;9;Brume 707;x
+810;71;216;55;Rhone;x
+811;86;237;74;Montelimar campagne;x
+812;102;47;141;Coupe 812;x
+813;117;113;208;Coupe 813;x
+814;132;179;53;Mer enclave 814;x
+815;147;245;120;Mer enclave 815;x
+816;163;55;187;Mer enclave 816;x
+817;250;20;200;Ilot du Silence;x
+818;250;40;180;Rocher des Cendres;x
+819;250;60;160;Ile du Charnier;x
+820;250;80;140;Ile de la Meute;x

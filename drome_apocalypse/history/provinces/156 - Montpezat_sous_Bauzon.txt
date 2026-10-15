@@ -1,0 +1,13 @@
+owner = MSO
+controller = MSO
+add_core = MSO
+culture = cul_thueyts
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = livestock
+capital = "Montpezat-sous-Bauzon"
+is_city = yes
+discovered_by = western

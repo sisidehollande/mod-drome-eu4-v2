@@ -1,0 +1,13 @@
+owner = CHD
+controller = CHD
+add_core = CHD
+culture = cul_nyons
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Chateauneuf-de-Bordette"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = BEA
+controller = BEA
+add_core = BEA
+culture = cul_saint_martial
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Beage"
+is_city = yes
+discovered_by = western

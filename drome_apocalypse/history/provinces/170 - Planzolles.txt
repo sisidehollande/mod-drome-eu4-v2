@@ -1,0 +1,13 @@
+owner = PLN
+controller = PLN
+add_core = PLN
+culture = cul_joyeuse
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Planzolles"
+is_city = yes
+discovered_by = western

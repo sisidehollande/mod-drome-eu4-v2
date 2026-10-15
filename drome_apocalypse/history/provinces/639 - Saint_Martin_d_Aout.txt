@@ -1,0 +1,13 @@
+owner = SDA
+controller = SDA
+add_core = SDA
+culture = cul_hauterives
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = livestock
+capital = "Saint-Martin-d'Aout"
+is_city = yes
+discovered_by = western

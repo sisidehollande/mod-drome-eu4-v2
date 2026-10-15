@@ -1,0 +1,13 @@
+owner = ANE
+controller = ANE
+add_core = ANE
+culture = cul_saint_rambert_d_albon
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+trade_goods = silk
+capital = "Anneyron"
+is_city = yes
+discovered_by = western

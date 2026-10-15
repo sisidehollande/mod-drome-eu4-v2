@@ -1,0 +1,13 @@
+owner = SOE
+controller = SOE
+add_core = SOE
+culture = cul_suze_la_rousse
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = silk
+capital = "Solerieux"
+is_city = yes
+discovered_by = western

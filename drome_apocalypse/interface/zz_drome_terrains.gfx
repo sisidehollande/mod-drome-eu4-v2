@@ -1,0 +1,31 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_colony_terrain_urban"
+		texturefile = "gfx/interface/drome_terrain_colony_urban.tga"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_urban"
+		texturefile = "gfx/interface/drome_terrain_combat_urban.tga"
+	}
+
+	spriteType = {
+		name = "GFX_colony_terrain_farmlands"
+		texturefile = "gfx/interface/drome_terrain_colony_farmlands.tga"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_farmlands"
+		texturefile = "gfx/interface/drome_terrain_combat_farmlands.tga"
+	}
+
+	spriteType = {
+		name = "GFX_colony_terrain_drylands"
+		texturefile = "gfx/interface/drome_terrain_colony_drylands.tga"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_drylands"
+		texturefile = "gfx/interface/drome_terrain_combat_drylands.tga"
+	}
+}

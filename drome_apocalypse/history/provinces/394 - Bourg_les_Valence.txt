@@ -1,0 +1,13 @@
+owner = BGL
+controller = BGL
+add_core = BGL
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 10
+base_production = 11
+base_manpower = 7
+trade_goods = grain
+capital = "Bourg-les-Valence"
+is_city = yes
+discovered_by = western

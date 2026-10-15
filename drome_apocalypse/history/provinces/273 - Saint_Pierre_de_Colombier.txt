@@ -1,0 +1,13 @@
+owner = SPI
+controller = SPI
+add_core = SPI
+culture = cul_thueyts
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+capital = "Saint-Pierre-de-Colombier"
+is_city = yes
+discovered_by = western

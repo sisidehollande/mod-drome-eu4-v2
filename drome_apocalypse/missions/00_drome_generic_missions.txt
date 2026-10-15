@@ -1,0 +1,246 @@
+# Generic missions Drome Apocalypse
+
+drome_survie = {
+	slot = 1
+	generic = yes
+	ai = no
+	potential = {
+		always = yes
+	}
+
+	drome_barricades = {
+		icon = mission_early_game_buildings
+		required_missions = {  }
+		trigger = { stability = 1 }
+		effect = {
+			add_stability = 1
+			add_country_modifier = {
+				name = "drome_mod_barricades"
+				duration = 3650
+			}
+		}
+	}
+
+	drome_recolte = {
+		icon = mission_have_manufactories
+		required_missions = { drome_barricades }
+		trigger = { total_development = 12 }
+		effect = {
+			add_treasury = 50
+			add_country_modifier = {
+				name = "drome_mod_recolte"
+				duration = 5475
+			}
+		}
+	}
+
+	drome_reserves = {
+		icon = mission_war_chest
+		required_missions = { drome_recolte }
+		trigger = { treasury = 300 }
+		effect = {
+			add_treasury = 100
+			add_country_modifier = {
+				name = "drome_mod_reserves"
+				duration = 5475
+			}
+		}
+	}
+
+	drome_refuge = {
+		icon = mission_high_income
+		required_missions = { drome_reserves }
+		trigger = { total_development = 30 }
+		effect = {
+			add_adm_power = 50
+			add_country_modifier = {
+				name = "drome_mod_refuge"
+				duration = 7300
+			}
+		}
+	}
+}
+
+drome_defense = {
+	slot = 2
+	generic = yes
+	ai = no
+	potential = {
+		always = yes
+	}
+
+	drome_milice = {
+		icon = mission_build_up_to_force_limit
+		required_missions = {  }
+		trigger = { army_size = 3 }
+		effect = {
+			add_mil_power = 30
+			add_country_modifier = {
+				name = "drome_mod_milice"
+				duration = 3650
+			}
+		}
+	}
+
+	drome_patrouilles = {
+		icon = mission_assemble_an_army
+		required_missions = { drome_milice }
+		trigger = { army_size = 6 }
+		effect = {
+			add_mil_power = 50
+			add_country_modifier = {
+				name = "drome_mod_patrouilles"
+				duration = 5475
+			}
+		}
+	}
+
+	drome_arsenal = {
+		icon = mission_cannons_firing
+		required_missions = { drome_patrouilles }
+		trigger = { army_size = 10 }
+		effect = {
+			add_army_tradition = 10
+			add_country_modifier = {
+				name = "drome_mod_arsenal"
+				duration = 7300
+			}
+		}
+	}
+
+	drome_forteresse = {
+		icon = mission_conquer_50_development
+		required_missions = { drome_arsenal }
+		trigger = { prestige = 20 }
+		effect = {
+			add_prestige = 10
+			add_country_modifier = {
+				name = "drome_mod_forteresse"
+				duration = 9125
+			}
+		}
+	}
+}
+
+drome_diplo = {
+	slot = 3
+	generic = yes
+	ai = no
+	potential = {
+		always = yes
+	}
+
+	drome_voisins = {
+		icon = mission_alliances
+		required_missions = {  }
+		trigger = { num_of_allies = 1 }
+		effect = {
+			add_dip_power = 30
+			add_country_modifier = {
+				name = "drome_mod_voisins"
+				duration = 5475
+			}
+		}
+	}
+
+	drome_pacte = {
+		icon = mission_have_two_subjects
+		required_missions = { drome_voisins }
+		trigger = { num_of_allies = 2 }
+		effect = {
+			add_prestige = 5
+			add_country_modifier = {
+				name = "drome_mod_pacte"
+				duration = 7300
+			}
+		}
+	}
+
+	drome_commerce = {
+		icon = mission_dominate_home_trade_node
+		required_missions = { drome_pacte }
+		trigger = { num_of_cities = 2 }
+		effect = {
+			add_treasury = 100
+			add_country_modifier = {
+				name = "drome_mod_troc"
+				duration = 7300
+			}
+		}
+	}
+
+	drome_ligue = {
+		icon = mission_empire
+		required_missions = { drome_commerce }
+		trigger = { num_of_allies = 4 }
+		effect = {
+			add_dip_power = 100
+			add_country_modifier = {
+				name = "drome_mod_ligue"
+				duration = 9125
+			}
+		}
+	}
+}
+
+drome_expansion = {
+	slot = 4
+	generic = yes
+	ai = no
+	potential = {
+		always = yes
+	}
+
+	drome_terres = {
+		icon = mission_unite_home_region
+		required_missions = {  }
+		trigger = { num_of_cities = 2 }
+		effect = {
+			add_mil_power = 30
+			add_country_modifier = {
+				name = "drome_mod_terres"
+				duration = 5475
+			}
+		}
+	}
+
+	drome_bourg = {
+		icon = mission_trade_company_region_abroad
+		required_missions = { drome_terres }
+		trigger = { total_development = 40 }
+		effect = {
+			add_adm_power = 100
+			add_country_modifier = {
+				name = "drome_mod_bourg"
+				duration = 7300
+			}
+		}
+	}
+
+	drome_canton = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { drome_bourg }
+		trigger = { num_of_cities = 5 }
+		effect = {
+			add_prestige = 15
+			add_country_modifier = {
+				name = "drome_mod_canton"
+				duration = 9125
+			}
+		}
+	}
+
+	drome_renaissance = {
+		icon = mission_conquer_50_development
+		required_missions = { drome_canton }
+		trigger = { total_development = 100 }
+		effect = {
+			add_dip_power = 100
+			add_mil_power = 100
+			add_country_modifier = {
+				name = "drome_mod_renaissance"
+				duration = 10950
+			}
+		}
+	}
+}

@@ -1,0 +1,408 @@
+# Conseil des Communes Libres : attribution des sieges
+
+# Choisit un membre permanent : le plus developpe parmi ceux qui n'ont pas encore de siege permanent
+ccl_choisir_un_permanent = {
+	if = {
+		limit = {
+			any_country = {
+				total_development = 400
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 400
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 300
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 300
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 200
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 200
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 150
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 150
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 100
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 100
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 80
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 80
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 60
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 60
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 50
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 50
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 40
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 40
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 30
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 30
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 25
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 25
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 20
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 20
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 15
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 15
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 12
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 12
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 10
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 10
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 8
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 8
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 6
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 6
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 5
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 5
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 4
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 4
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 3
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 3
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 2
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 2
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 1
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 1
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+	else_if = {
+		limit = {
+			any_country = {
+				total_development = 0
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+		}
+		random_country = {
+			limit = {
+				total_development = 0
+				NOT = { tag = ZOM }
+				NOT = { has_country_flag = ccl_permanent }
+			}
+			set_country_flag = ccl_permanent
+		}
+	}
+}
+
+# Choisit un siege elu parmi les communes sans siege
+ccl_choisir_un_elu = {
+	random_country = {
+		limit = {
+			NOT = { tag = ZOM }
+			NOT = { has_country_flag = ccl_permanent }
+			NOT = { has_country_flag = ccl_elu }
+		}
+		set_country_flag = ccl_elu
+	}
+}

@@ -1,0 +1,13 @@
+owner = EYG
+controller = EYG
+add_core = EYG
+culture = cul_lachau
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Eygalayes"
+is_city = yes
+discovered_by = western

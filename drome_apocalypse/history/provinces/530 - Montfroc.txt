@@ -1,0 +1,13 @@
+owner = MOF
+controller = MOF
+add_core = MOF
+culture = cul_lachau
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Montfroc"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,13 @@
+owner = ISR
+controller = ISR
+add_core = ISR
+culture = cul_coucouron
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Issarles"
+is_city = yes
+discovered_by = western

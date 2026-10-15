@@ -1,0 +1,13 @@
+owner = MSU
+controller = MSU
+add_core = MSU
+culture = cul_chauvac_laux_montaux
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Montauban-sur-l'Ouveze"
+is_city = yes
+discovered_by = western

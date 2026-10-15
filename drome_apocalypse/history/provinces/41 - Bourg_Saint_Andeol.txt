@@ -1,0 +1,13 @@
+owner = BSA
+controller = BSA
+add_core = BSA
+culture = cul_pierrelatte
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 8
+base_manpower = 4
+trade_goods = grain
+capital = "Bourg-Saint-Andeol"
+is_city = yes
+discovered_by = western

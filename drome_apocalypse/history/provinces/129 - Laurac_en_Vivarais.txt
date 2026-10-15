@@ -1,0 +1,13 @@
+owner = LAU
+controller = LAU
+add_core = LAU
+culture = cul_joyeuse
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = iron
+capital = "Laurac-en-Vivarais"
+is_city = yes
+discovered_by = western

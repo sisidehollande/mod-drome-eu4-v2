@@ -1,0 +1,203 @@
+# Corps speciaux recrutables EN PLUS des unites de base (systeme de mercenaires)
+# Pas de home_province : compagnie locale. Chaque corps = 4 compagnies d'1 regiment (1000 hommes)
+# disponibles des le depart (min_size = max_size = 1), pour toutes les communes qui remplissent la condition.
+
+merc_gardes_chasse_1 = {
+	regiments_per_development = 0.5
+	min_size = 1
+	max_size = 1
+	cavalry_weight = 0.0
+	artillery_weight = 0.0
+	cavalry_cap = 0
+	cost_modifier = 0.6
+	trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		capital_scope = {
+			OR = {
+				terrain = forest
+				terrain = woods
+				terrain = hills
+				terrain = mountain
+				terrain = drylands
+			}
+		}
+	}
+	modifier = {
+		land_morale = 0.05
+		movement_speed = 0.1
+		defensiveness = 0.05
+	}
+}
+
+merc_gardes_chasse_2 = {
+	regiments_per_development = 0.5
+	min_size = 1
+	max_size = 1
+	cavalry_weight = 0.0
+	artillery_weight = 0.0
+	cavalry_cap = 0
+	cost_modifier = 0.6
+	trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		capital_scope = {
+			OR = {
+				terrain = forest
+				terrain = woods
+				terrain = hills
+				terrain = mountain
+				terrain = drylands
+			}
+		}
+	}
+	modifier = {
+		land_morale = 0.05
+		movement_speed = 0.1
+		defensiveness = 0.05
+	}
+}
+
+merc_gardes_chasse_3 = {
+	regiments_per_development = 0.5
+	min_size = 1
+	max_size = 1
+	cavalry_weight = 0.0
+	artillery_weight = 0.0
+	cavalry_cap = 0
+	cost_modifier = 0.6
+	trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		capital_scope = {
+			OR = {
+				terrain = forest
+				terrain = woods
+				terrain = hills
+				terrain = mountain
+				terrain = drylands
+			}
+		}
+	}
+	modifier = {
+		land_morale = 0.05
+		movement_speed = 0.1
+		defensiveness = 0.05
+	}
+}
+
+merc_gardes_chasse_4 = {
+	regiments_per_development = 0.5
+	min_size = 1
+	max_size = 1
+	cavalry_weight = 0.0
+	artillery_weight = 0.0
+	cavalry_cap = 0
+	cost_modifier = 0.6
+	trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		capital_scope = {
+			OR = {
+				terrain = forest
+				terrain = woods
+				terrain = hills
+				terrain = mountain
+				terrain = drylands
+			}
+		}
+	}
+	modifier = {
+		land_morale = 0.05
+		movement_speed = 0.1
+		defensiveness = 0.05
+	}
+}
+
+merc_police_municipale_1 = {
+	regiments_per_development = 0.5
+	min_size = 1
+	max_size = 1
+	cavalry_weight = 0.0
+	artillery_weight = 0.0
+	cavalry_cap = 0
+	cost_modifier = 0.6
+	trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		capital_scope = {
+			OR = {
+				terrain = urban
+				development = 12
+			}
+		}
+	}
+	modifier = {
+		land_morale = 0.1
+		global_unrest = -0.5
+	}
+}
+
+merc_police_municipale_2 = {
+	regiments_per_development = 0.5
+	min_size = 1
+	max_size = 1
+	cavalry_weight = 0.0
+	artillery_weight = 0.0
+	cavalry_cap = 0
+	cost_modifier = 0.6
+	trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		capital_scope = {
+			OR = {
+				terrain = urban
+				development = 12
+			}
+		}
+	}
+	modifier = {
+		land_morale = 0.1
+		global_unrest = -0.5
+	}
+}
+
+merc_police_municipale_3 = {
+	regiments_per_development = 0.5
+	min_size = 1
+	max_size = 1
+	cavalry_weight = 0.0
+	artillery_weight = 0.0
+	cavalry_cap = 0
+	cost_modifier = 0.6
+	trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		capital_scope = {
+			OR = {
+				terrain = urban
+				development = 12
+			}
+		}
+	}
+	modifier = {
+		land_morale = 0.1
+		global_unrest = -0.5
+	}
+}
+
+merc_police_municipale_4 = {
+	regiments_per_development = 0.5
+	min_size = 1
+	max_size = 1
+	cavalry_weight = 0.0
+	artillery_weight = 0.0
+	cavalry_cap = 0
+	cost_modifier = 0.6
+	trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		capital_scope = {
+			OR = {
+				terrain = urban
+				development = 12
+			}
+		}
+	}
+	modifier = {
+		land_morale = 0.1
+		global_unrest = -0.5
+	}
+}

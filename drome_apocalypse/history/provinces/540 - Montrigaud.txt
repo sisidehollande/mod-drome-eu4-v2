@@ -1,0 +1,13 @@
+owner = MTR
+controller = MTR
+add_core = MTR
+culture = cul_hauterives
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = cloth
+capital = "Montrigaud"
+is_city = yes
+discovered_by = western

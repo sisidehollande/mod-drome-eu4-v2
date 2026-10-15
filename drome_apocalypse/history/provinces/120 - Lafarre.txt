@@ -1,0 +1,13 @@
+owner = LAF
+controller = LAF
+add_core = LAF
+culture = cul_lalouvesc
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = cloth
+capital = "Lafarre"
+is_city = yes
+discovered_by = western

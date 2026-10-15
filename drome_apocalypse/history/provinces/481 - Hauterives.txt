@@ -1,0 +1,13 @@
+owner = HAU
+controller = HAU
+add_core = HAU
+culture = cul_hauterives
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = grain
+capital = "Hauterives"
+is_city = yes
+discovered_by = western

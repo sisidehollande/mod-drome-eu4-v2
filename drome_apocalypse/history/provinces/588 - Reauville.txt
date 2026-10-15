@@ -1,0 +1,13 @@
+owner = REA
+controller = REA
+add_core = REA
+culture = cul_grignan
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+trade_goods = cloth
+capital = "Reauville"
+is_city = yes
+discovered_by = western

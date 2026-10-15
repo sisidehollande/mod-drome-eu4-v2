@@ -1,0 +1,13 @@
+owner = PLE
+controller = PLE
+add_core = PLE
+culture = cul_valence
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 8
+base_manpower = 5
+trade_goods = silk
+capital = "Portes-les-Valence"
+is_city = yes
+discovered_by = western

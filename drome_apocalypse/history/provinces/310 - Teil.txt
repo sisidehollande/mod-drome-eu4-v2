@@ -1,0 +1,13 @@
+owner = TEI
+controller = TEI
+add_core = TEI
+culture = cul_montelimar
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 7
+base_manpower = 5
+trade_goods = silk
+capital = "Teil"
+is_city = yes
+discovered_by = western

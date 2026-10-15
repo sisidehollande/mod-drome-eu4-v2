@@ -1,0 +1,13 @@
+owner = SVA
+controller = SVA
+add_core = SVA
+culture = cul_vallon_pont_d_arc
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+capital = "Salavas"
+is_city = yes
+discovered_by = western
