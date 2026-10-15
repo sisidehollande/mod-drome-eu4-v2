@@ -9,11 +9,11 @@ capital = 414
 
 2055.1.1 = {
 	monarch = {
-		name = "Michel"
+		name = "Loris I"
 		dynasty = "de Charols"
 		birth_date = 2001.2.8
-		adm = 5
-		dip = 1
-		mil = 2
+		adm = 6
+		dip = 6
+		mil = 6
 	}
 }
