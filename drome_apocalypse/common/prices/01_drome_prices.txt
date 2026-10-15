@@ -5,3 +5,7 @@ nougat = {
 lavande = {
 	base_price = 3
 }
+
+clairette = {
+	base_price = 5
+}
