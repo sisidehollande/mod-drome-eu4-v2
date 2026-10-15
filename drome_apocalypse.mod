@@ -1,5 +1,5 @@
 name="Drome Apocalypse"
-version="0.3.2"
+version="0.4.0"
 supported_version="v1.37.5.0"
 tags={
 	"Total Conversion"
