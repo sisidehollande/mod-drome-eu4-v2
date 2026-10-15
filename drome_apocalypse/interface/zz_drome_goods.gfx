@@ -2,19 +2,19 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_resource_icon"
 		texturefile = "gfx//interface//drome_resources.tga"
-		noOfFrames = 34
+		noOfFrames = 35
 		loadType = "INGAME"
 	}
 	spriteType = {
 		name = "GFX_resource_icon_small"
 		texturefile = "gfx//interface//drome_resources_small.tga"
-		noOfFrames = 34
+		noOfFrames = 35
 		loadType = "INGAME"
 	}
 	spriteType = {
 		name = "GFX_resource_icon_transparent"
 		texturefile = "gfx//interface//drome_resources.tga"
-		noOfFrames = 34
+		noOfFrames = 35
 		loadType = "INGAME"
 		alwaystransparent = yes
 	}
