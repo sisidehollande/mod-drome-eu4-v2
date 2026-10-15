@@ -23,3 +23,16 @@ lavande = {
 		factor = 0
 	}
 }
+clairette = {
+    color = { 0.75 0.82 0.38 }
+    modifier = {
+        trade_steering = 0.20
+    }
+    province = {
+        local_unrest = -2
+        local_tax_modifier = 0.10
+    }
+    chance = {
+        factor = 0
+    }
+}
