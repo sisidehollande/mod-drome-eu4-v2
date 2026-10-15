@@ -8,4 +8,5 @@ bookmark = {
 	country = MEL
 	country = PRI
 	country = AUB
+	country = CLS
 }
