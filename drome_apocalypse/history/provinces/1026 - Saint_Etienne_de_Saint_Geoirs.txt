@@ -1,0 +1,14 @@
+owner = SOI
+controller = SOI
+add_core = SOI
+culture = cul_saint_etienne_de_saint_geoirs
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 5
+base_manpower = 3
+trade_goods = cloth
+capital = "Saint-Etienne-de-Saint-Geoirs"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

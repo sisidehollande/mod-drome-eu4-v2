@@ -1,0 +1,14 @@
+owner = EDE
+controller = EDE
+add_core = EDE
+culture = cul_entre_deux_guiers
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = livestock
+capital = "Entre-deux-Guiers"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

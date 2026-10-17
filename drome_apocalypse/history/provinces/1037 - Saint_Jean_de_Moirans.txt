@@ -1,0 +1,14 @@
+owner = AAR
+controller = AAR
+add_core = AAR
+culture = cul_voiron
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 5
+base_manpower = 3
+trade_goods = grain
+capital = "Saint-Jean-de-Moirans"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

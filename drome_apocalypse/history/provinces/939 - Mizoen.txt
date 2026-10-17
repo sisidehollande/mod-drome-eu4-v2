@@ -1,0 +1,14 @@
+owner = MIZ
+controller = MIZ
+add_core = MIZ
+culture = cul_bourg_d_oisans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Mizoen"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }

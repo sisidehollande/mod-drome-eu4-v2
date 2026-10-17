@@ -1,0 +1,14 @@
+owner = ECI
+controller = ECI
+add_core = ECI
+culture = cul_grenoble
+religion = catholic
+hre = yes
+base_tax = 14
+base_production = 15
+base_manpower = 10
+trade_goods = wine
+capital = "Echirolles"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_ville duration = -1 }

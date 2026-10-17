@@ -1,0 +1,14 @@
+owner = AAY
+controller = AAY
+add_core = AAY
+culture = cul_saint_etienne_de_saint_geoirs
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Saint-Michel-de-Saint-Geoirs"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }

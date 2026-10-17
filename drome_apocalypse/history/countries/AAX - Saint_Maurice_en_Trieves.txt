@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_treschenu_creyers
+religion = catholic
+capital = 1056
+
+2055.1.1 = {
+	monarch = {
+		name = "Louis"
+		dynasty = "de Saint-Maurice-en-Trieves"
+		birth_date = 1984.7.3
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

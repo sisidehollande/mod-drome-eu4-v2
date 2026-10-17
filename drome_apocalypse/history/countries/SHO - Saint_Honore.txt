@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_mure
+religion = catholic
+capital = 1034
+
+2055.1.1 = {
+	monarch = {
+		name = "Jean"
+		dynasty = "de Saint-Honore"
+		birth_date = 1980.5.13
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

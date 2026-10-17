@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_saint_etienne_de_saint_geoirs
+religion = catholic
+capital = 930
+
+2055.1.1 = {
+	monarch = {
+		name = "Henri"
+		dynasty = "de Marnans"
+		birth_date = 1972.1.17
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

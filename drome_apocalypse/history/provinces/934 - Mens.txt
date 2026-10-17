@@ -1,0 +1,14 @@
+owner = MNS
+controller = MNS
+add_core = MNS
+culture = cul_mure
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = livestock
+capital = "Mens"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

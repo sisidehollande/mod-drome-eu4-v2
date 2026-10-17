@@ -1,0 +1,14 @@
+owner = MUD
+controller = MUD
+add_core = MUD
+culture = cul_montaud
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+trade_goods = wool
+capital = "Montaud"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

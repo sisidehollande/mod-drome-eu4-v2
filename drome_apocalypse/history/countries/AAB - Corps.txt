@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_corps
+religion = catholic
+capital = 886
+
+2055.1.1 = {
+	monarch = {
+		name = "Louis"
+		dynasty = "de Corps"
+		birth_date = 1964.9.9
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

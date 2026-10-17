@@ -170,3 +170,74 @@ iles_brume_region = {
 		iles_brume_area
 	}
 }
+
+# Isere (ajout)
+saint_pierre_de_chartreuse_region = {
+	areas = {
+		pinsot_area
+		pressins_area
+		revel_area
+		saint_pierre_de_chartreuse_area
+		voiron_area
+		sappey_en_chartreuse_area
+		theys_area
+		chapareillan_area
+		saint_laurent_du_pont_area
+		voreppe_area
+		touvet_area
+		villages_du_lac_de_paladru_area
+	}
+}
+
+chanas_region = {
+	areas = {
+		chanas_area
+		bouge_chambalud_area
+	}
+}
+
+villard_de_lans_region = {
+	areas = {
+		treminis_area
+		valbonnais_area
+		saint_andeol_area
+		saint_baudille_et_pipet_area
+		saint_martin_de_la_cluze_area
+		saint_jean_d_herans_area
+		gresse_en_vercors_area
+		villard_de_lans_area
+		chatel_en_trieves_area
+		saint_laurent_en_beaumont_area
+	}
+}
+
+autrans_meaudre_en_vercors_region = {
+	areas = {
+		roybon_area
+		saint_etienne_de_saint_geoirs_area
+		beaurepaire_area
+		izeron_area
+		varacieux_area
+		saint_romans_area
+		apprieu_area
+		polienas_area
+		autrans_meaudre_en_vercors_area
+		viriville_area
+		presles_area
+		tullins_area
+	}
+}
+
+ferriere_region = {
+	areas = {
+		grenoble_area
+		saint_christophe_en_oisans_area
+		ferriere_area
+		bourg_d_oisans_area
+		saint_martin_d_uriage_area
+		valjouffrey_area
+		sechilienne_area
+		varces_allieres_et_risset_area
+		freney_d_oisans_area
+	}
+}

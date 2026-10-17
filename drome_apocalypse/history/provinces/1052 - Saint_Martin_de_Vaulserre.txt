@@ -1,0 +1,14 @@
+owner = AAV
+controller = AAV
+add_core = AAV
+culture = cul_pressins
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wine
+capital = "Saint-Martin-de-Vaulserre"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }

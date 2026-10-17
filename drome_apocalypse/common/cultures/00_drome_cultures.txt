@@ -149,6 +149,14 @@ cg_saint_jean_en_royans = {
 	cul_saint_agnan_en_vercors = {
 		primary = SGN
 	}
+
+	cul_vinay = {
+		primary = VNA
+	}
+
+	cul_saint_paul_les_monestier = {
+		primary = AA3
+	}
 }
 
 cg_cheylard = {
@@ -225,6 +233,10 @@ cg_hauterives = {
 	cul_montmiral = {
 		primary = MOI
 	}
+
+	cul_saint_etienne_de_saint_geoirs = {
+		primary = SOI
+	}
 }
 
 cg_thueyts = {
@@ -269,6 +281,14 @@ cg_lus_la_croix_haute = {
 	cul_valdrome = {
 		primary = VAD
 	}
+
+	cul_mure = {
+		primary = MUE
+	}
+
+	cul_corps = {
+		primary = AAB
+	}
 }
 
 cg_montbrun_les_bains = {
@@ -291,3 +311,90 @@ cg_montbrun_les_bains = {
 	}
 }
 
+cg_grenoble = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" }
+
+	cul_grenoble = {
+		primary = GRE
+	}
+
+	cul_voiron = {
+		primary = VOI
+	}
+
+	cul_crolles = {
+		primary = CRL
+	}
+
+	cul_vif = {
+		primary = ABI
+	}
+
+	cul_montaud = {
+		primary = MUD
+	}
+}
+
+cg_pontcharra = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" }
+
+	cul_pontcharra = {
+		primary = POC
+	}
+
+	cul_entre_deux_guiers = {
+		primary = EDE
+	}
+
+	cul_ferriere = {
+		primary = FRR
+	}
+}
+
+cg_bourg_d_oisans = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" }
+
+	cul_bourg_d_oisans = {
+		primary = BGD
+	}
+
+	cul_allemond = {
+		primary = ALM
+	}
+
+	cul_besse = {
+		primary = BSS
+	}
+
+	cul_morte = {
+		primary = MRT
+	}
+
+	cul_saint_christophe_en_oisans = {
+		primary = SOP
+	}
+}
+
+cg_pressins = {
+	graphical_culture = westerngfx
+
+	male_names = { Jean Pierre Louis Michel Andre Paul Henri Marcel Daniel Claude Jacques Georges Robert Gabriel Lucien Emile Joseph Antoine Raymond Maurice Rene Marc Etienne Francois Alain Bernard Victor Hugues Guillaume Gaspard Raoul Aime Clement Fernand Gaston Baptiste Odilon Cyprien }
+	female_names = { Marie Jeanne Anne Louise Marguerite Catherine Madeleine Claire Isabelle Francoise Suzanne Lucie Helene Berthe Camille Eugenie Odette Simone Josephine Clementine Agathe Colette Mathilde Adele Aurelie Fanny Noemie Rosalie Solange }
+	dynasty_names = { "Faure" "Roux" "Blanc" "Garnier" "Chevalier" "Martin" "Bernard" "Dupont" }
+
+	cul_pressins = {
+		primary = PSS
+	}
+}

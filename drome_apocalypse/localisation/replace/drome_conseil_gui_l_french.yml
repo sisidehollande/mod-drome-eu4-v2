@@ -1,6 +1,6 @@
 ﻿l_french:
  HRE_HRE:0 "Conseil des Communes Libres"
- HRE_ELECTORS:0 "Sièges (20)"
+ HRE_ELECTORS:0 "Sièges (10)"
  HRE_MEMBER_STAT:0 "$NUM$ communes"
  HRE_MEMBER_STATES:0 "Communes membres"
  HRE_MEMBERS:0 "Communes du Conseil"
@@ -27,7 +27,7 @@
  ccl_charte:0 "Charte du Conseil"
  ccl_charte_desc:0 "Texte fondateur du Conseil des Communes Libres."
  drome_conseil.41.t:0 "Élection du Président du Conseil"
- drome_conseil.41.d:0 "Le mandat du Conseil est renouvelé. Les 20 sièges vont élire leur Président : le vote est ouvert pendant deux mois, puis les voix seront comptées. Vous pouvez vous porter candidat."
+ drome_conseil.41.d:0 "Le mandat du Conseil est renouvelé. Les 10 sièges vont élire leur Président : le vote est ouvert pendant deux mois, puis les voix seront comptées. Vous pouvez vous porter candidat."
  drome_conseil.41.a:0 "Nous nous portons candidats"
  drome_conseil.41.b:0 "Nous laissons les autres communes décider"
  drome_conseil.40.t:0 "Dépouillement"

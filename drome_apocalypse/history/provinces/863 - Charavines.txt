@@ -1,0 +1,14 @@
+owner = CRA
+controller = CRA
+add_core = CRA
+culture = cul_voiron
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = grain
+capital = "Charavines"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

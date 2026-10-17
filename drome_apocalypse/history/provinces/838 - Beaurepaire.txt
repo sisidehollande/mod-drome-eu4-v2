@@ -1,0 +1,14 @@
+owner = BEP
+controller = BEP
+add_core = BEP
+culture = cul_hauterives
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 4
+trade_goods = wine
+capital = "Beaurepaire"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_bourg duration = -1 }

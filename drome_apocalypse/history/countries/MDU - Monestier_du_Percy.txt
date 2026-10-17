@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_mure
+religion = catholic
+capital = 943
+
+2055.1.1 = {
+	monarch = {
+		name = "Claude"
+		dynasty = "de Monestier-du-Percy"
+		birth_date = 1973.6.20
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

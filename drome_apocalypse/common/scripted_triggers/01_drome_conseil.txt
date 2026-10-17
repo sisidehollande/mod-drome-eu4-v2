@@ -4,17 +4,17 @@ conseil_adopte = {
 		all_country = {
 			has_country_flag = conseil_oui
 		}
-		amount = 350
+		amount = 500
 	}
 }
 
-# Conseil : majorite de 11 sieges sur 20
+# Conseil : majorite de 6 sieges sur 10
 conseil_siege_majorite = {
 	calc_true_if = {
 		all_country = {
 			has_country_flag = conseil_siege_oui
 		}
-		amount = 11
+		amount = 6
 	}
 }
 

@@ -1,0 +1,14 @@
+owner = SZA
+controller = SZA
+add_core = SZA
+culture = cul_crolles
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = livestock
+capital = "Saint-Nazaire-les-Eymes"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

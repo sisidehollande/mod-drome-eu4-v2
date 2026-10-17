@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_hauterives
+religion = catholic
+capital = 950
+
+2055.1.1 = {
+	monarch = {
+		name = "Henri"
+		dynasty = "de Montfalcon"
+		birth_date = 1962.5.13
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

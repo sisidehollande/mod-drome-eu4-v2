@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_vinay
+religion = catholic
+capital = 842
+
+2055.1.1 = {
+	monarch = {
+		name = "Daniel"
+		dynasty = "de Bessins"
+		birth_date = 1986.5.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

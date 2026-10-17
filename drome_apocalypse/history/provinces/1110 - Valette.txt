@@ -1,0 +1,14 @@
+owner = VAT
+controller = VAT
+add_core = VAT
+culture = cul_mure
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = livestock
+capital = "Valette"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }

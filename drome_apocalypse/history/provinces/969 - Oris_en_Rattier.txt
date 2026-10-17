@@ -1,0 +1,14 @@
+owner = OEN
+controller = OEN
+add_core = OEN
+culture = cul_mure
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Oris-en-Rattier"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }

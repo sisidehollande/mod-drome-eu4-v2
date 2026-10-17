@@ -1,0 +1,14 @@
+owner = POC
+controller = POC
+add_core = POC
+culture = cul_pontcharra
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 7
+base_manpower = 4
+trade_goods = wine
+capital = "Pontcharra"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_bourg duration = -1 }

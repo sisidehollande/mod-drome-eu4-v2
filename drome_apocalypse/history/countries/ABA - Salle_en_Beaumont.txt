@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_mure
+religion = catholic
+capital = 1086
+
+2055.1.1 = {
+	monarch = {
+		name = "Louis"
+		dynasty = "de Salle-en-Beaumont"
+		birth_date = 1984.1.25
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

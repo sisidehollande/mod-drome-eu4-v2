@@ -1,0 +1,14 @@
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+culture = cul_saint_etienne_de_saint_geoirs
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = wine
+capital = "Brezins"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

@@ -1,0 +1,14 @@
+owner = SBL
+controller = SBL
+add_core = SBL
+culture = cul_saint_rambert_d_albon
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = livestock
+capital = "Sablons"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

@@ -1,0 +1,14 @@
+owner = AAS
+controller = AAS
+add_core = AAS
+culture = cul_romans_sur_isere
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = cloth
+capital = "Saint-Lattier"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

@@ -1,0 +1,14 @@
+owner = RNA
+controller = RNA
+add_core = RNA
+culture = cul_voiron
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 5
+base_manpower = 3
+trade_goods = wine
+capital = "Renage"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

@@ -1,0 +1,14 @@
+owner = AVI
+controller = AVI
+add_core = AVI
+culture = cul_vif
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Avignonet"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }

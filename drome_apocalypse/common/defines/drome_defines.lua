@@ -2,8 +2,8 @@
 NDefines.NGame.START_DATE = "2056.1.1"
 NDefines.NGame.END_DATE = "2326.1.1"
 
--- Conseil des Communes Libres : 20 sieges
-NDefines.NDiplomacy.DESIRED_NUM_OF_ELECTORS = 20
+-- Conseil des Communes Libres : 10 sieges
+NDefines.NDiplomacy.DESIRED_NUM_OF_ELECTORS = 10
 
 -- Corps speciaux (petites compagnies mercenaires)
 NDefines.NMilitary.MERCENARY_COMPANY_MIN_REGIMENTS = 1

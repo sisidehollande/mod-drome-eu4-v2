@@ -1,0 +1,14 @@
+owner = VNO
+controller = VNO
+add_core = VNO
+culture = cul_grenoble
+religion = catholic
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = cloth
+capital = "Venon"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

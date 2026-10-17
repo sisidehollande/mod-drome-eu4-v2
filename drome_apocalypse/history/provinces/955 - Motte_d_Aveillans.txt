@@ -1,0 +1,14 @@
+owner = MTT
+controller = MTT
+add_core = MTT
+culture = cul_mure
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = wool
+capital = "Motte-d'Aveillans"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

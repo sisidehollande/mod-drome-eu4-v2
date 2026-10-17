@@ -1,0 +1,14 @@
+owner = ABI
+controller = ABI
+add_core = ABI
+culture = cul_vif
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 8
+base_manpower = 4
+trade_goods = grain
+capital = "Vif"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_bourg duration = -1 }

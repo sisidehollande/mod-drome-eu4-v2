@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_pontcharra
+religion = catholic
+capital = 861
+
+2055.1.1 = {
+	monarch = {
+		name = "Marcel"
+		dynasty = "de Chapareillan"
+		birth_date = 1969.4.14
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

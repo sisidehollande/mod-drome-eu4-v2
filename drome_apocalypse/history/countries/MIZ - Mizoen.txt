@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_bourg_d_oisans
+religion = catholic
+capital = 939
+
+2055.1.1 = {
+	monarch = {
+		name = "Paul"
+		dynasty = "de Mizoen"
+		birth_date = 1975.10.4
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

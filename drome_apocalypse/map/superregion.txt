@@ -20,3 +20,11 @@ drome_superregion = {
 brume_superregion = {
 	iles_brume_region
 }
+
+isere_superregion = {
+	saint_pierre_de_chartreuse_region
+	chanas_region
+	villard_de_lans_region
+	autrans_meaudre_en_vercors_region
+	ferriere_region
+}

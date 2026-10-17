@@ -1,0 +1,14 @@
+owner = ORN
+controller = ORN
+add_core = ORN
+culture = cul_bourg_d_oisans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = iron
+capital = "Ornon"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }

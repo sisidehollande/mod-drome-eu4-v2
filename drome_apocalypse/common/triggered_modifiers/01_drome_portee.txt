@@ -1,0 +1,9 @@
+drome_portee_commerciale = {
+	potential = {
+		NOT = { tag = ZOM }
+	}
+	trigger = {
+		always = yes
+	}
+	trade_range_mult = 5.0
+}

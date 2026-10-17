@@ -1,0 +1,14 @@
+owner = MDU
+controller = MDU
+add_core = MDU
+culture = cul_mure
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Monestier-du-Percy"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }

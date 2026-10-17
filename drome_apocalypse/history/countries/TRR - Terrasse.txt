@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_crolles
+religion = catholic
+capital = 1101
+
+2055.1.1 = {
+	monarch = {
+		name = "Marcel"
+		dynasty = "de Terrasse"
+		birth_date = 1969.4.22
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = cul_grenoble
+religion = catholic
+capital = 933
+
+2055.1.1 = {
+	monarch = {
+		name = "Claude"
+		dynasty = "de Autrans-Meaudre en Vercors"
+		birth_date = 1963.4.22
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

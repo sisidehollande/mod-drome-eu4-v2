@@ -1,0 +1,14 @@
+owner = MDX
+controller = MDX
+add_core = MDX
+culture = cul_corps
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Monestier-d'Ambel"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }

@@ -1,0 +1,14 @@
+owner = AA1
+controller = AA1
+add_core = AA1
+culture = cul_vif
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = livestock
+capital = "Saint-Paul-de-Varces"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_village duration = -1 }

@@ -37,7 +37,7 @@ country_event = {
 	}
 }
 
-# Deux tours : Assemblee generale (1 voix par commune) puis Conseil (20 sieges, veto des 5 permanents)
+# Deux tours : Assemblee generale (1 voix par commune) puis Conseil (10 sieges, veto des 5 permanents)
 country_event = {
 	id = drome_conseil.2
 	title = drome_conseil.2.t
@@ -385,16 +385,6 @@ country_event = {
 		ccl_choisir_un_elu = yes
 		ccl_choisir_un_elu = yes
 		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
-		ccl_choisir_un_elu = yes
 		every_country = {
 			limit = {
 				has_country_flag = ccl_permanent
@@ -414,7 +404,7 @@ country_event = {
 				duration = -1
 			}
 		}
-		# Fenetre native du Conseil : les 20 sieges sont les "electeurs"
+		# Fenetre native du Conseil : les 10 sieges sont les "electeurs"
 		every_country = {
 			limit = {
 				is_elector = yes

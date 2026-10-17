@@ -58,7 +58,7 @@ categories =  {
 		local_development_cost = -0.1
 		nation_designer_cost_multiplier = 1.1
 
-		terrain_override = { 10 19 98 179 310 314 393 394 444 496 528 564 580 606 649 687 811 812 813 }
+		terrain_override = { 10 19 98 179 310 314 393 394 444 496 528 564 580 606 649 687 811 812 813 891 893 897 900 909 936 986 1024 1053 1089 1091 1092 1113 1122 1132 1134 }
 	}
 
 	farmlands = {

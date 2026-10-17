@@ -1,0 +1,14 @@
+owner = AAT
+controller = AAT
+add_core = AAT
+culture = cul_vinay
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 8
+base_manpower = 4
+trade_goods = cloth
+capital = "Saint-Marcellin"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_bourg duration = -1 }

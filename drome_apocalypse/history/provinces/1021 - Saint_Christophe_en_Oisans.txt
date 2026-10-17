@@ -1,0 +1,14 @@
+owner = SOP
+controller = SOP
+add_core = SOP
+culture = cul_saint_christophe_en_oisans
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+capital = "Saint-Christophe-en-Oisans"
+is_city = yes
+discovered_by = western
+add_permanent_province_modifier = { name = drome_type_hameau duration = -1 }
